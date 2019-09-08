@@ -24,6 +24,3 @@ theme:
       noWrapper: true
       template:
         - 'includes/postPreview_list'
-#posts:
-#  authorPages:
-#    template: 'page'
