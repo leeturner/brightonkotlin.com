@@ -17,4 +17,4 @@ RSVPs close at 5pm on the day, with Doors at 6:30pm. Talks will begin at 7:15pm.
 This meetup is also supported by https://www.jetbrains.com[JetBrains] who have provided us with a 1-year subscription to any of their IDEs. This free one year subscription will be raffled off during the meetup. All attendees will be automatically entered and a winner will be selected at random on the night. You can also expect some Kotlin stickers as well :)
 
 
-image::/assets/media/jetbrains.png[link="https://www.jetbrains.com"][Jetbrains Logo]
+image::/assets/media/jetbrains.png[link="https://www.jetbrains.com", Jetbrains Logo]
