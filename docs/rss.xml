@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <id>http://localhost:8080</id>
+        <title>Brighton Kotlin</title>
+        <link>http://localhost:8080</link>
+        <atom:link href="http://localhost:8080/rss.xml" rel="self" type="application/rss+xml"/>
+        <description>The Brighton Kotlin group is for Kotlin users, enthusiasts and learners from beginners to experts, and anyone wanting to get involved with the Kotlin/JVM ecosystem.</description>
+        <item>
+            <title>Kotlin/Everywhere - Inaugural Brighton Kotlin Meetup</title>
+            <guid>http://localhost:8080/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup</guid>
+            <link>http://localhost:8080/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup</link>
+            <description>The first Brighton Kotlin Meetup</description>
+        </item>
+        <item>
+            <title>Lee Turner</title>
+            <guid>http://localhost:8080/posts/authors/lee-turner</guid>
+            <link>http://localhost:8080/posts/authors/lee-turner</link>
+            <description>Lee Turner is the founder of the Brighton Kotlin Meetup</description>
+        </item>
+        
+    </channel>
+</rss>

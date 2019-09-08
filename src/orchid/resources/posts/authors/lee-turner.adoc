@@ -1,0 +1,10 @@
+---
+title: 'Lee Turner'
+description: Lee Turner is the founder of the Brighton Kotlin Meetup
+name: 'Lee Turner'
+avatar: '/assets/media/authors/lee_turner.jpg'
+permalink: 'posts/authors/lee-turner'
+---
+
+image:/assets/media/authors/lee_turner.jpg[Lee Turner,float="right"] Lee Turner is the founder of the Brighton Kotlin Meetup
+

@@ -1,0 +1,55 @@
+{
+  "ownKey": "posts",
+  "childrenPages": {
+    "blog": {
+      "ownKey": "blog",
+      "childrenPages": {"2019": {
+        "ownKey": "2019",
+        "childrenPages": {"8": {
+          "ownKey": "8",
+          "childrenPages": {"20": {
+            "ownKey": "20",
+            "childrenPages": {"kotlin-everywhere-inaugural-brighton-kotlin-meetup": {
+              "ownKey": "kotlin-everywhere-inaugural-brighton-kotlin-meetup",
+              "ownPages": [{
+                "reference": {
+                  "path": "blog/2019/8/20",
+                  "baseUrl": "http://localhost:8080",
+                  "fileName": "kotlin-everywhere-inaugural-brighton-kotlin-meetup/",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup"
+                },
+                "description": "The first Brighton Kotlin Meetup",
+                "title": "Kotlin/Everywhere - Inaugural Brighton Kotlin Meetup",
+                "content": "<div class=\"paragraph\">\n<p>This will be the inaugural Brighton Kotlin meetup. The talks on the night are yet to be announced.<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>The meetup is hosted and sponsored by <a href=\"https://medium.com/@crunchtech\">Crunch<\/a> who are providing pizza and a choice of alcoholic and non-alcoholic drinks.<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>RSVPs close at 5pm on the day, with Doors at 6:30pm. Talks will begin at 7:15pm.<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>This meetup is also supported by <a href=\"https://www.jetbrains.com\">JetBrains<\/a> who have provided us with a 1-year subscription to any of their IDEs. This free one year subscription will be raffled off during the meetup. All attendees will be automatically entered and a winner will be selected at random on the night. You can also expect some Kotlin stickers as well :)<\/p>\n<\/div>\n<div class=\"imageblock\">\n<div class=\"content\">\n<a class=\"image\" href=\"https://www.jetbrains.com\"><img src=\"/assets/media/jetbrains.png\" alt=\"jetbrains\" width=\"][Jetbrains Logo\"><\/a>\n<\/div>\n<\/div>"
+              }]
+            }}
+          }}
+        }}
+      }}
+    },
+    "posts": {
+      "ownKey": "posts",
+      "childrenPages": {"authors": {
+        "ownKey": "authors",
+        "childrenPages": {"lee-turner": {
+          "ownKey": "lee-turner",
+          "ownPages": [{
+            "reference": {
+              "path": "posts/authors",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "lee-turner/",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/posts/authors/lee-turner"
+            },
+            "description": "Lee Turner is the founder of the Brighton Kotlin Meetup",
+            "title": "Lee Turner",
+            "content": "<div class=\"paragraph\">\n<p><span class=\"image right\"><img src=\"/assets/media/authors/lee_turner.jpg\" alt=\"Lee Turner\"><\/span> Lee Turner is the founder of the Brighton Kotlin Meetup<\/p>\n<\/div>"
+          }]
+        }}
+      }}
+    }
+  }
+}

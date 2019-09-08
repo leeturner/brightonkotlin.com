@@ -1,0 +1,29 @@
+site:
+  about:
+    siteName: 'Brighton Kotlin'
+    subtitle: 'Welcome to the Brighton Kotlin website'
+    siteDescription: 'The Brighton Kotlin group is for Kotlin users, enthusiasts and learners from beginners to experts, and anyone wanting to get involved with the Kotlin/JVM ecosystem.'
+    avatar: '/assets/media/icon.png'
+
+theme:
+  social:
+    twitter: 'brightonkotlin'
+    other:
+      - label: 'meetup'
+        link: 'https://www.meetup.com/Brighton-Kotlin/'
+        icon: 'fa-meetup'
+  menu:
+    - type: 'page'
+      title: 'Home'
+      url: '/'
+    - type: 'pages'
+      atRoot: true
+  sidebar:
+    - type: recentPosts
+      limit: 3
+      noWrapper: true
+      template:
+        - 'includes/postPreview_list'
+#posts:
+#  authorPages:
+#    template: 'page'
