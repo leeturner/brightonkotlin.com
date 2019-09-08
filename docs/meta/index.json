@@ -6,11 +6,11 @@
       {
         "reference": {
           "path": "meta",
-          "baseUrl": "http://localhost:8080",
+          "baseUrl": "http://brightonkotlin.com",
           "fileName": "home.index",
           "extension": "json",
           "usePrettyUrl": false,
-          "link": "http://localhost:8080/meta/home.index.json"
+          "link": "http://brightonkotlin.com/meta/home.index.json"
         },
         "description": "",
         "title": "Home . Index"
@@ -18,11 +18,11 @@
       {
         "reference": {
           "path": "meta",
-          "baseUrl": "http://localhost:8080",
+          "baseUrl": "http://brightonkotlin.com",
           "fileName": "pages.index",
           "extension": "json",
           "usePrettyUrl": false,
-          "link": "http://localhost:8080/meta/pages.index.json"
+          "link": "http://brightonkotlin.com/meta/pages.index.json"
         },
         "description": "",
         "title": "Pages . Index"
@@ -30,11 +30,11 @@
       {
         "reference": {
           "path": "meta",
-          "baseUrl": "http://localhost:8080",
+          "baseUrl": "http://brightonkotlin.com",
           "fileName": "posts.index",
           "extension": "json",
           "usePrettyUrl": false,
-          "link": "http://localhost:8080/meta/posts.index.json"
+          "link": "http://brightonkotlin.com/meta/posts.index.json"
         },
         "description": "",
         "title": "Posts . Index"
@@ -42,11 +42,11 @@
       {
         "reference": {
           "path": "meta",
-          "baseUrl": "http://localhost:8080",
+          "baseUrl": "http://brightonkotlin.com",
           "fileName": "all.index",
           "extension": "json",
           "usePrettyUrl": false,
-          "link": "http://localhost:8080/meta/all.index.json"
+          "link": "http://brightonkotlin.com/meta/all.index.json"
         },
         "description": "",
         "title": "All . Index"

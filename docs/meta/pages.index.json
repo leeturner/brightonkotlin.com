@@ -5,11 +5,11 @@
     "ownPages": [{
       "reference": {
         "path": "",
-        "baseUrl": "http://localhost:8080",
+        "baseUrl": "http://brightonkotlin.com",
         "fileName": "code-of-conduct",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "http://localhost:8080/code-of-conduct"
+        "link": "http://brightonkotlin.com/code-of-conduct"
       },
       "description": "",
       "title": "Code Of Conduct",

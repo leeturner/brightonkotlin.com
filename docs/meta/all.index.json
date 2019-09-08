@@ -6,11 +6,11 @@
       "ownPages": [{
         "reference": {
           "path": "",
-          "baseUrl": "http://localhost:8080",
+          "baseUrl": "http://brightonkotlin.com",
           "fileName": "code-of-conduct",
           "extension": "html",
           "usePrettyUrl": true,
-          "link": "http://localhost:8080/code-of-conduct"
+          "link": "http://brightonkotlin.com/code-of-conduct"
         },
         "description": "",
         "title": "Code Of Conduct",
@@ -30,11 +30,11 @@
               "ownPages": [{
                 "reference": {
                   "path": "blog/2019/8/20",
-                  "baseUrl": "http://localhost:8080",
+                  "baseUrl": "http://brightonkotlin.com",
                   "fileName": "kotlin-everywhere-inaugural-brighton-kotlin-meetup/",
                   "extension": "html",
                   "usePrettyUrl": true,
-                  "link": "http://localhost:8080/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup"
+                  "link": "http://brightonkotlin.com/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup"
                 },
                 "description": "The first Brighton Kotlin Meetup",
                 "title": "Kotlin/Everywhere - Inaugural Brighton Kotlin Meetup",
@@ -54,11 +54,11 @@
           "ownPages": [{
             "reference": {
               "path": "posts/authors",
-              "baseUrl": "http://localhost:8080",
+              "baseUrl": "http://brightonkotlin.com",
               "fileName": "lee-turner/",
               "extension": "html",
               "usePrettyUrl": true,
-              "link": "http://localhost:8080/posts/authors/lee-turner"
+              "link": "http://brightonkotlin.com/posts/authors/lee-turner"
             },
             "description": "Lee Turner is the founder of the Brighton Kotlin Meetup",
             "title": "Lee Turner",
@@ -72,11 +72,11 @@
     {
       "reference": {
         "path": "",
-        "baseUrl": "http://localhost:8080",
+        "baseUrl": "http://brightonkotlin.com",
         "fileName": "",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "http://localhost:8080"
+        "link": "http://brightonkotlin.com"
       },
       "description": "",
       "title": "Brighton Kotlin",
@@ -85,11 +85,11 @@
     {
       "reference": {
         "path": "",
-        "baseUrl": "http://localhost:8080",
+        "baseUrl": "http://brightonkotlin.com",
         "fileName": "404",
         "extension": "html",
         "usePrettyUrl": false,
-        "link": "http://localhost:8080/404.html"
+        "link": "http://brightonkotlin.com/404.html"
       },
       "description": "",
       "title": "Brighton Kotlin",

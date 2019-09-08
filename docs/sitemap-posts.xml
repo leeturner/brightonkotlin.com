@@ -4,13 +4,13 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:8080/posts/authors/lee-turner</loc>
+        <loc>http://brightonkotlin.com/posts/authors/lee-turner</loc>
         <lastmod>2019-09-08</lastmod>
         <priority>0.0</priority>
         
     </url>
     <url>
-        <loc>http://localhost:8080/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup</loc>
+        <loc>http://brightonkotlin.com/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup</loc>
         <lastmod>2019-09-08</lastmod>
         <priority>0.0</priority>
         
