@@ -5,13 +5,13 @@
     <link href="http://localhost:8080"/>
     <link href="http://localhost:8080/atom.xml" rel="self" type="application/rss+xml"/>
     <id>http://localhost:8080</id>
-    <updated>2019-09-08T12:33:00.593220T00:00:00Z</updated>
+    <updated>2019-09-08T12:49:14.994877T00:00:00Z</updated>
     <entry>
         <id>http://localhost:8080/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup</id>
         <link href="http://localhost:8080/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup"/>
         <title>Kotlin/Everywhere - Inaugural Brighton Kotlin Meetup</title>
         <summary>The first Brighton Kotlin Meetup</summary>
-        <updated>2019-09-08T12:33:00.593220T00:00:00Z</updated>
+        <updated>2019-09-08T12:49:14.994877T00:00:00Z</updated>
         <published>2019-08-20T00:00T00:00:00Z</published>
     </entry>
     <entry>
@@ -19,8 +19,8 @@
         <link href="http://localhost:8080/posts/authors/lee-turner"/>
         <title>Lee Turner</title>
         <summary>Lee Turner is the founder of the Brighton Kotlin Meetup</summary>
-        <updated>2019-09-08T12:33:00.592377T00:00:00Z</updated>
-        <published>2019-09-08T12:33:00.592369T00:00:00Z</published>
+        <updated>2019-09-08T12:49:14.977338T00:00:00Z</updated>
+        <published>2019-09-08T12:49:14.977210T00:00:00Z</published>
     </entry>
     
 </feed>
