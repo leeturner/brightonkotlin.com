@@ -16,6 +16,9 @@ theme:
     - type: 'page'
       title: 'Home'
       url: '/'
+    - type: link
+      title: Join Our Meetup
+      url: https://www.meetup.com/Brighton-Kotlin/
     - type: 'pages'
       atRoot: true
   sidebar:
