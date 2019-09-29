@@ -7,6 +7,12 @@
         <atom:link href="http://brightonkotlin.com/rss.xml" rel="self" type="application/rss+xml"/>
         <description>The Brighton Kotlin group is for Kotlin users, enthusiasts and learners from beginners to experts, and anyone wanting to get involved with the Kotlin/JVM ecosystem.</description>
         <item>
+            <title>Successful Inaugural Brighton Kotlin Meetup</title>
+            <guid>http://brightonkotlin.com/blog/2019/9/29/successful-inaugural-brighton-kotlin-meetup</guid>
+            <link>http://brightonkotlin.com/blog/2019/9/29/successful-inaugural-brighton-kotlin-meetup</link>
+            <description>The first Brighton Kotlin Meetup was a great success</description>
+        </item>
+        <item>
             <title>Kotlin/Everywhere - Inaugural Brighton Kotlin Meetup</title>
             <guid>http://brightonkotlin.com/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup</guid>
             <link>http://brightonkotlin.com/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup</link>

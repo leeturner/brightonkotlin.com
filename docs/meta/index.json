@@ -43,6 +43,18 @@
         "reference": {
           "path": "meta",
           "baseUrl": "http://brightonkotlin.com",
+          "fileName": "taxonomies.index",
+          "extension": "json",
+          "usePrettyUrl": false,
+          "link": "http://brightonkotlin.com/meta/taxonomies.index.json"
+        },
+        "description": "",
+        "title": "Taxonomies . Index"
+      },
+      {
+        "reference": {
+          "path": "meta",
+          "baseUrl": "http://brightonkotlin.com",
           "fileName": "all.index",
           "extension": "json",
           "usePrettyUrl": false,

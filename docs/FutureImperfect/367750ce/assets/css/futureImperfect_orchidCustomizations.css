@@ -19,3 +19,6 @@
       padding: 1.5em; }
       .pagination-single .actions.pagination li a {
         width: 100%; } }
+
+p > img, p > svg {
+  max-width: 100%; }

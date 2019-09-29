@@ -4,13 +4,19 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://brightonkotlin.com</loc>
+        <loc>http://brightonkotlin.com/tags</loc>
         <lastmod>2019-09-29</lastmod>
         <priority>0.0</priority>
         
     </url>
     <url>
-        <loc>http://brightonkotlin.com/404.html</loc>
+        <loc>http://brightonkotlin.com/tags/meetups</loc>
+        <lastmod>2019-09-29</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>http://brightonkotlin.com/tags/kotlin/everywhere</loc>
         <lastmod>2019-09-29</lastmod>
         <priority>0.0</priority>
         
