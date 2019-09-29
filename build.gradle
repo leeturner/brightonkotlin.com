@@ -25,6 +25,7 @@ dependencies {
 orchid {
     theme = "FutureImperfect"
     baseUrl = "http://brightonkotlin.com/"
+//    baseUrl = "http://localhost:8080/"
     destDir = "docs"
     runTask = "build"
 }
