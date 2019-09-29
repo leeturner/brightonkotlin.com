@@ -27,3 +27,11 @@ theme:
       noWrapper: true
       template:
         - 'includes/postPreview_list'
+taxonomies:
+  taxonomies:
+    - tags:
+        title: 'Tags'
+        Kotlin/Everywhere:
+          title: 'Meet-ups relating to Kotlin/Everywhere'
+        Meetups:
+          title: 'Our regular meet-ups where we discuss everything relating to the Kotlin ecosystem'
