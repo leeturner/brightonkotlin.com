@@ -7,6 +7,12 @@
         <atom:link href="http://brightonkotlin.com/rss.xml" rel="self" type="application/rss+xml"/>
         <description>The Brighton Kotlin group is for Kotlin users, enthusiasts and learners from beginners to experts, and anyone wanting to get involved with the Kotlin/JVM ecosystem.</description>
         <item>
+            <title>Kotlin Multiplatform at HMRC By George Herbert</title>
+            <guid>http://brightonkotlin.com/blog/2019/10/12/kolin-multiplatform-hmrc-george-herbert</guid>
+            <link>http://brightonkotlin.com/blog/2019/10/12/kolin-multiplatform-hmrc-george-herbert</link>
+            <description>We are extremely lucky to have a talk this month by George Herbert from Capgemini where he will discuss how Kotlin Multiplatform (KMP) was implemented at HMRC</description>
+        </item>
+        <item>
             <title>Successful Inaugural Brighton Kotlin Meetup</title>
             <guid>http://brightonkotlin.com/blog/2019/9/29/successful-inaugural-brighton-kotlin-meetup</guid>
             <link>http://brightonkotlin.com/blog/2019/9/29/successful-inaugural-brighton-kotlin-meetup</link>

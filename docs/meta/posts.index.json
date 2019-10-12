@@ -51,6 +51,14 @@
                     "usePrettyUrl": true,
                     "link": "http://brightonkotlin.com/blog/2019/9/29/successful-inaugural-brighton-kotlin-meetup"
                   },
+                  "next": {
+                    "path": "blog/2019/10/12",
+                    "baseUrl": "http://brightonkotlin.com",
+                    "fileName": "kolin-multiplatform-hmrc-george-herbert/",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "http://brightonkotlin.com/blog/2019/10/12/kolin-multiplatform-hmrc-george-herbert"
+                  },
                   "previous": {
                     "path": "blog/2019/8/20",
                     "baseUrl": "http://brightonkotlin.com",
@@ -62,6 +70,36 @@
                   "description": "The first Brighton Kotlin Meetup was a great success",
                   "title": "Successful Inaugural Brighton Kotlin Meetup",
                   "content": "<div class=\"paragraph\">\n<p>It was great to see so many people come along to the first ever Brighton Kotlin meetup.  It really showed that there is an active Kotlin community in Brighton with people working on projects using a range of technologies from the Kotlin ecosystem.  You can see the photos of the event at our meetup page - <a href=\"https://www.meetup.com/Brighton-Kotlin/photos/30344969/\" class=\"bare\">https://www.meetup.com/Brighton-Kotlin/photos/30344969/<\/a><\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>At this meetup <a href=\"/posts/authors/lee-turner\">Lee Turner<\/a> talked about how <a href=\"https://medium.com/@crunchtech\">Crunch<\/a> have been introducing Kotlin into their backend microservice architecture over the past year, the results and challenges they have seen during that time and where they plan to take it next.<\/p>\n<\/div>\n<div class=\"imageblock\">\n<div class=\"content\">\n<img src=\"/assets/media/2019/09/29/lee-turner-kotlin-one-year-on.jpg\" alt=\"Lee Turner presenting - Kotlin 1 Year On\">\n<\/div>\n<\/div>\n<div class=\"paragraph\">\n<p>Thanks to the support of <a href=\"https://www.jetbrains.com\">JetBrains<\/a> we were able to give away two 1-year subscription to any of their IDEs. Well done to both Martin and Jemma who won the licenses in our first give away.<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>A big shout out goes to <a href=\"https://medium.com/@crunchtech\">Crunch<\/a> who sponsored the event and provided the venue, pizzas and a choice of alcoholic and non-alcoholic drinks.<\/p>\n<\/div>\n<div class=\"imageblock\">\n<div class=\"content\">\n<img src=\"/assets/media/2019/09/29/pizza.jpg\" alt=\"Pizza provided by Crunch\">\n<\/div>\n<\/div>\n<div class=\"imageblock\">\n<div class=\"content\">\n<img src=\"/assets/media/2019/09/29/beer.jpg\" alt=\"Beer provided by Crunch\">\n<\/div>\n<\/div>"
+                }]
+              }}
+            }}
+          },
+          "10": {
+            "ownKey": "10",
+            "childrenPages": {"12": {
+              "ownKey": "12",
+              "childrenPages": {"kolin-multiplatform-hmrc-george-herbert": {
+                "ownKey": "kolin-multiplatform-hmrc-george-herbert",
+                "ownPages": [{
+                  "reference": {
+                    "path": "blog/2019/10/12",
+                    "baseUrl": "http://brightonkotlin.com",
+                    "fileName": "kolin-multiplatform-hmrc-george-herbert/",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "http://brightonkotlin.com/blog/2019/10/12/kolin-multiplatform-hmrc-george-herbert"
+                  },
+                  "previous": {
+                    "path": "blog/2019/9/29",
+                    "baseUrl": "http://brightonkotlin.com",
+                    "fileName": "successful-inaugural-brighton-kotlin-meetup/",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "http://brightonkotlin.com/blog/2019/9/29/successful-inaugural-brighton-kotlin-meetup"
+                  },
+                  "description": "We are extremely lucky to have a talk this month by George Herbert from Capgemini where he will discuss how Kotlin Multiplatform (KMP) was implemented at HMRC",
+                  "title": "Kotlin Multiplatform at HMRC By George Herbert",
+                  "content": "<div class=\"imageblock\">\n<div class=\"content\">\n<img src=\"/assets/media/2019/10/12/002-kotlin-multiplatform-george-herbert.png\" alt=\"Kotlin Multiplatform at HMRC By George Herbert\">\n<\/div>\n<\/div>\n<div class=\"paragraph\">\n<p>We are extremely lucky to have a talk this month by George Herbert from Capgemini where he will discuss how Kotlin Multiplatform (KMP) was implemented at HMRC.<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>During this talk, he will talk about the reasons behind the use of KMP and how he made it work with iOS, Android and Web. Come along to find out whether KMP could be used in your projects or maybe just to pique your interest into the world of KMP!<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>RSVPs close at 5pm on the day, with Doors at 6:30pm. Talks will begin at 7:15pm. We will finish up with a drink or two at the pub<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>This event is hosted by Hays Brighton, 78-81 Queens Rd, Brighton<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>This meetup is also supported by <a href=\"https://www.jetbrains.com\">JetBrains<\/a> who have provided us with a 1-year subscription to any of their IDEs. This free one year subscription will be raffled off during the meetup. All attendees will be automatically entered and a winner will be selected at random on the night.<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>You can also expect some Kotlin stickers as well :)<\/p>\n<\/div>\n<div class=\"imageblock\">\n<div class=\"content\">\n<a class=\"image\" href=\"https://www.jetbrains.com\"><img src=\"/assets/media/jetbrains.png\" alt=\"jetbrains\" width=\"Jetbrains Logo\"><\/a>\n<\/div>\n<\/div>"
                 }]
               }}
             }}

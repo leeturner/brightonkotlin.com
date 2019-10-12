@@ -20,6 +20,23 @@
           "content": ""
         }]
       },
+      "multiplatform": {
+        "ownKey": "multiplatform",
+        "ownPages": [{
+          "reference": {
+            "path": "tags/multiplatform",
+            "baseUrl": "http://brightonkotlin.com",
+            "fileName": "/",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "http://brightonkotlin.com/tags/multiplatform",
+            "title": "Multiplatform"
+          },
+          "description": "",
+          "title": "Multiplatform",
+          "content": ""
+        }]
+      },
       "kotlin": {
         "ownKey": "kotlin",
         "childrenPages": {"everywhere": {

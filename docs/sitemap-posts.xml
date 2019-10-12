@@ -5,19 +5,25 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>http://brightonkotlin.com/posts/authors/lee-turner</loc>
-        <lastmod>2019-09-29</lastmod>
+        <lastmod>2019-10-12</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>http://brightonkotlin.com/blog/2019/10/12/kolin-multiplatform-hmrc-george-herbert</loc>
+        <lastmod>2019-10-12</lastmod>
         <priority>0.0</priority>
         
     </url>
     <url>
         <loc>http://brightonkotlin.com/blog/2019/9/29/successful-inaugural-brighton-kotlin-meetup</loc>
-        <lastmod>2019-09-29</lastmod>
+        <lastmod>2019-10-12</lastmod>
         <priority>0.0</priority>
         
     </url>
     <url>
         <loc>http://brightonkotlin.com/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup</loc>
-        <lastmod>2019-09-29</lastmod>
+        <lastmod>2019-10-12</lastmod>
         <priority>0.0</priority>
         
     </url>
