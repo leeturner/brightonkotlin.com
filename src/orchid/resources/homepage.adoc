@@ -7,3 +7,4 @@ Welcome to the Brighton Kotlin meetup group. This group is for Kotlin users, ent
 We plan to have regular meetups, presentations and talks, and are always interested in hearing what people want to know about, so please let us know.
 
 Visit our https://www.meetup.com/Brighton-Kotlin/[Meetup Page] and sign up to come along to our next event or follow us on https://twitter.com/brightonkotlin[Twitter] for all the latest news.
+

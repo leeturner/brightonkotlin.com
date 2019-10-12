@@ -1,9 +1,9 @@
 {
   "ownKey": "posts",
-  "childrenPages": {
-    "blog": {
-      "ownKey": "blog",
-      "childrenPages": {"2019": {
+  "childrenPages": {"blog": {
+    "ownKey": "blog",
+    "childrenPages": {
+      "2019": {
         "ownKey": "2019",
         "childrenPages": {
           "8": {
@@ -105,29 +105,26 @@
             }}
           }
         }
-      }}
-    },
-    "posts": {
-      "ownKey": "posts",
-      "childrenPages": {"authors": {
+      },
+      "authors": {
         "ownKey": "authors",
         "childrenPages": {"lee-turner": {
           "ownKey": "lee-turner",
           "ownPages": [{
             "reference": {
-              "path": "posts/authors",
+              "path": "blog/authors",
               "baseUrl": "http://brightonkotlin.com",
               "fileName": "lee-turner/",
               "extension": "html",
               "usePrettyUrl": true,
-              "link": "http://brightonkotlin.com/posts/authors/lee-turner"
+              "link": "http://brightonkotlin.com/blog/authors/lee-turner"
             },
             "description": "Lee Turner is the founder of the Brighton Kotlin Meetup",
             "title": "Lee Turner",
             "content": "<div class=\"paragraph\">\n<p><span class=\"image right\"><img src=\"/assets/media/authors/lee_turner.jpg\" alt=\"Lee Turner\"><\/span> Lee Turner is the founder of the Brighton Kotlin Meetup<\/p>\n<\/div>"
           }]
         }}
-      }}
+      }
     }
-  }
+  }}
 }
