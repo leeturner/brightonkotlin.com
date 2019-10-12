@@ -31,7 +31,12 @@ taxonomies:
   taxonomies:
     - tags:
         title: 'Tags'
+        single: false
+        orderBy:
+          - entryCount
         Kotlin/Everywhere:
           title: 'Meet-ups relating to Kotlin/Everywhere'
         Meetups:
           title: 'Our regular meet-ups where we discuss everything relating to the Kotlin ecosystem'
+        Multiplatform:
+          title: 'All posts relating to Kotlin Multiplatform'

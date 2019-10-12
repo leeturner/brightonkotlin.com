@@ -5,13 +5,13 @@
     <link href="http://brightonkotlin.com"/>
     <link href="http://brightonkotlin.com/atom.xml" rel="self" type="application/rss+xml"/>
     <id>http://brightonkotlin.com</id>
-    <updated>2019-10-12T14:41:20.661147T00:00:00Z</updated>
+    <updated>2019-10-12T15:44:24.822935T00:00:00Z</updated>
     <entry>
         <id>http://brightonkotlin.com/blog/2019/10/12/kolin-multiplatform-hmrc-george-herbert</id>
         <link href="http://brightonkotlin.com/blog/2019/10/12/kolin-multiplatform-hmrc-george-herbert"/>
         <title>Kotlin Multiplatform at HMRC By George Herbert</title>
         <summary>We are extremely lucky to have a talk this month by George Herbert from Capgemini where he will discuss how Kotlin Multiplatform (KMP) was implemented at HMRC</summary>
-        <updated>2019-10-12T14:41:20.661147T00:00:00Z</updated>
+        <updated>2019-10-12T15:44:24.822935T00:00:00Z</updated>
         <published>2019-10-12T00:00T00:00:00Z</published>
     </entry>
     <entry>
@@ -19,7 +19,7 @@
         <link href="http://brightonkotlin.com/blog/2019/9/29/successful-inaugural-brighton-kotlin-meetup"/>
         <title>Successful Inaugural Brighton Kotlin Meetup</title>
         <summary>The first Brighton Kotlin Meetup was a great success</summary>
-        <updated>2019-10-12T14:41:20.656959T00:00:00Z</updated>
+        <updated>2019-10-12T15:44:24.818501T00:00:00Z</updated>
         <published>2019-09-29T00:00T00:00:00Z</published>
     </entry>
     <entry>
@@ -27,7 +27,7 @@
         <link href="http://brightonkotlin.com/blog/2019/8/20/kotlin-everywhere-inaugural-brighton-kotlin-meetup"/>
         <title>Kotlin/Everywhere - Inaugural Brighton Kotlin Meetup</title>
         <summary>The first Brighton Kotlin Meetup</summary>
-        <updated>2019-10-12T14:41:20.653423T00:00:00Z</updated>
+        <updated>2019-10-12T15:44:24.814694T00:00:00Z</updated>
         <published>2019-08-20T00:00T00:00:00Z</published>
     </entry>
     <entry>
@@ -35,8 +35,8 @@
         <link href="http://brightonkotlin.com/posts/authors/lee-turner"/>
         <title>Lee Turner</title>
         <summary>Lee Turner is the founder of the Brighton Kotlin Meetup</summary>
-        <updated>2019-10-12T14:41:20.645498T00:00:00Z</updated>
-        <published>2019-10-12T14:41:20.645450T00:00:00Z</published>
+        <updated>2019-10-12T15:44:24.807038T00:00:00Z</updated>
+        <published>2019-10-12T15:44:24.806994T00:00:00Z</published>
     </entry>
     
 </feed>
