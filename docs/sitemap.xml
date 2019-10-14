@@ -5,19 +5,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
         <loc>http://brightonkotlin.com/sitemap-home.xml</loc>
-        <lastmod>2019-10-12</lastmod>
+        <lastmod>2019-10-14</lastmod>
     </sitemap>
     <sitemap>
         <loc>http://brightonkotlin.com/sitemap-pages.xml</loc>
-        <lastmod>2019-10-12</lastmod>
+        <lastmod>2019-10-14</lastmod>
     </sitemap>
     <sitemap>
         <loc>http://brightonkotlin.com/sitemap-posts.xml</loc>
-        <lastmod>2019-10-12</lastmod>
+        <lastmod>2019-10-14</lastmod>
     </sitemap>
     <sitemap>
         <loc>http://brightonkotlin.com/sitemap-taxonomies.xml</loc>
-        <lastmod>2019-10-12</lastmod>
+        <lastmod>2019-10-14</lastmod>
     </sitemap>
     
 </sitemapindex>

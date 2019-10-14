@@ -16,11 +16,11 @@ theme:
     - type: 'page'
       title: 'Home'
       url: '/'
+    - type: 'pages'
+      atRoot: true
     - type: link
       title: Join Our Meetup
       url: https://www.meetup.com/Brighton-Kotlin/
-    - type: 'pages'
-      atRoot: true
   sidebar:
     - type: recentPosts
       limit: 3

@@ -142,7 +142,20 @@
             }]
           }}
         }
-      }
+      },
+      "ownPages": [{
+        "reference": {
+          "path": "",
+          "baseUrl": "http://brightonkotlin.com",
+          "fileName": "blog",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "http://brightonkotlin.com/blog"
+        },
+        "description": "",
+        "title": "Blog",
+        "content": ""
+      }]
     },
     "tags": {
       "ownKey": "tags",
