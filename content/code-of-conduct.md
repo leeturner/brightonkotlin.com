@@ -1,16 +1,20 @@
-= Event Code of Conduct & Anti-Harrassment Policy
+---
+title: Code of Conduct
+---
+
+# Event Code of Conduct & Anti-Harrassment Policy
 
 The Google Developer Groups, Kotlin User Groups and other Community Groups organizing these events ["Organizers"] are dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. They do not tolerate harassment of event participants in any form. The Organizers take violations of this policy seriously and will respond appropriately.
 
 All participants in these events must abide by the following policy:
 
-. Be excellent to each other. The Organizers want the events to be an excellent experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. Treat everyone with respect. Participate while acknowledging that everyone deserves to be at the event -- and each of us has the right to enjoy the experience without fear of harassment, discrimination, or condescension, whether blatant or via micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it would feel if it were said to or about you.
+* Be excellent to each other. The Organizers want the events to be an excellent experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. Treat everyone with respect. Participate while acknowledging that everyone deserves to be at the event -- and each of us has the right to enjoy the experience without fear of harassment, discrimination, or condescension, whether blatant or via micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it would feel if it were said to or about you.
 
-. Speak up if you see or hear something. Harassment is not tolerated, and you are empowered to politely engage when you or others are disrespected. The person making you feel uncomfortable may not be aware of what they are doing, and politely bringing their behavior to their attention is encouraged. If a participant engages in harassing or uncomfortable behavior, the Organizers may take any action they deem appropriate, including warning or expelling the offender from the event with no refund. If you are being harassed or feel uncomfortable, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.
+* Speak up if you see or hear something. Harassment is not tolerated, and you are empowered to politely engage when you or others are disrespected. The person making you feel uncomfortable may not be aware of what they are doing, and politely bringing their behavior to their attention is encouraged. If a participant engages in harassing or uncomfortable behavior, the Organizers may take any action they deem appropriate, including warning or expelling the offender from the event with no refund. If you are being harassed or feel uncomfortable, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.
 
-. Harassment is not tolerated. Harassment includes, but is not limited to: verbal language that reinforces social structures of domination related to gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category; sexual imagery in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; offensive verbal language; inappropriate physical contact; and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+* Harassment is not tolerated. Harassment includes, but is not limited to: verbal language that reinforces social structures of domination related to gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category; sexual imagery in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; offensive verbal language; inappropriate physical contact; and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-. Practice saying "Yes and" to each other. It’s a theatre improv technique to build on each other’s ideas. We all benefit when we create together.
+* Practice saying "Yes and" to each other. It’s a theatre improv technique to build on each other’s ideas. We all benefit when we create together.
 
 This policy extends to talks, forums, workshops, codelabs, social media, parties, hallway conversations, all attendees, partners, sponsors, volunteers, event staff, etc. You catch our drift. The Organizers reserve the right to refuse admittance to, or remove any person from, the event (including future events organizer by the Group) at any time in its sole discretion. This includes, but is not limited to, attendees behaving in a disorderly manner or failing to comply with this policy, and the terms and conditions herein. If a participant engages in harassing or uncomfortable behavior, the Organizers may take any action they deem appropriate, including warning or expelling the offender from the event with no refund.
 
@@ -20,9 +24,9 @@ Event staff will be happy to help participants contact hotel/venue security or l
 
 Exhibiting partners, sponsors or vendor booths, or similar activities are also subject to this policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. Participants and exhibiting partners or sponsors disobeying this policy will be notified and are expected to stop any offending behavior immediately.
 
-== License and attribution
+## License and attribution
 
-This policy is licensed under the https://creativecommons.org/publicdomain/zero/1.0/[Creative Commons Zero license]
+This policy is licensed under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This policy is based on and influenced by several other community policies including: Ohio LinuxFest Anti-Harassment policy, Con Anti-Harassment Project, Geek Feminism Wiki (created by the Ada Initiative), ConfCodeofConduct.com, JSconf, Rust, Diversity in Python, and Write/Speak/Code.
 
