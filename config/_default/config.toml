@@ -10,6 +10,7 @@ pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
 canonifyURLs = true
+copyright = "2021 Brighton Kotlin"
 
 [permalinks]
 post = "/blog/:title/"
@@ -34,7 +35,7 @@ socialAppearAtBottom = true
 # Sets Categories to sort by number of posts instead of alphabetical
 categoriesByCount    = true
 # set to show or to hide categories in the sidebar
-showSidebarCategories = true
+showSidebarCategories = false
 # Sets Estimated Reading Time to appear in post headers
 includeReadingTime   = true
 # Sets the Favicon and Version for the site. Default support is for
@@ -145,6 +146,7 @@ weight = 4
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
 [social]
+meetup          = "Brighton-Kotlin"
 # Coding Communities
 github           = ""
 gitlab           = ""
@@ -171,7 +173,7 @@ facebook         = ""
 googleplus       = ""
 reddit           = ""
 quora            = ""
-youtube          = ""
+youtube          = "channel/UCZK-492u_HRBFPfaSEubhKw"
 vimeo            = ""
 whatsapp         = "" # WhatsApp Number
 # WeChat and QQ need testing.
