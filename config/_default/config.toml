@@ -25,7 +25,7 @@ viewMorePostLink     = "/blog/"
 
 # Optional Params
 # Sets navbarTitle to match the section of the website
-dynamicTitles        = true
+dynamicTitles        = false
 # Sets RSS icons to appear on the sidebar with the social media buttons
 rssAppearAtTop       = true
 rssAppearAtBottom    = true
