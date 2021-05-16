@@ -1,8 +1,0 @@
-User-agent: *
-
-Disallow: /
-
-
-
-Sitemap: http://brightonkotlin.com/sitemap.xml
-
