@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Brighton Kotlin</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Brighton Kotlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 Brighton Kotlin</copyright>
+    <lastBuildDate>Sat, 12 Oct 2019 22:09:08 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin Multiplatform at HMRC By George Herbert</title>
+      <link>/blog/kolin-multiplatform-hmrc-george-herbert/</link>
+      <pubDate>Sat, 12 Oct 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/blog/kolin-multiplatform-hmrc-george-herbert/</guid>
+      <description>We are extremely lucky to have a talk this month by George Herbert from Capgemini where he will discuss how Kotlin Multiplatform (KMP) was implemented at HMRC.
+During this talk, he will talk about the reasons behind the use of KMP and how he made it work with iOS, Android and Web. Come along to find out whether KMP could be used in your projects or maybe just to pique your interest into the world of KMP!</description>
+    </item>
+    
+    <item>
+      <title>Successful Inaugural Brighton Kotlin Meetup</title>
+      <link>/blog/successful-inaugural-brighton-kotlin-meetup/</link>
+      <pubDate>Sun, 29 Sep 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/blog/successful-inaugural-brighton-kotlin-meetup/</guid>
+      <description>It was great to see so many people come along to the first ever Brighton Kotlin meetup. It really showed that there is an active Kotlin community in Brighton with people working on projects using a range of technologies from the Kotlin ecosystem. You can see the photos of the event at our meetup page - https://www.meetup.com/Brighton-Kotlin/photos/30344969/
+At this meetup Lee Turner talked about how Crunch have been introducing Kotlin into their backend microservice architecture over the past year, the results and challenges they have seen during that time and where they plan to take it next.</description>
+    </item>
+    
+    <item>
+      <title>Kotlin/Everywhere - Inaugural Brighton Kotlin Meetup</title>
+      <link>/blog/kotlin-everywhere-inaugural-brighton-kotlin-meetup/</link>
+      <pubDate>Tue, 20 Aug 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/blog/kotlin-everywhere-inaugural-brighton-kotlin-meetup/</guid>
+      <description>This will be the inaugural Brighton Kotlin meetup. The talks on the night are yet to be announced.
+The meetup is hosted and sponsored by Crunch who are providing pizza and a choice of alcoholic and non-alcoholic drinks.
+RSVPs close at 5pm on the day, with Doors at 6:30pm. Talks will begin at 7:15pm.
+Sign up on our meetup page - https://www.meetup.com/Brighton-Kotlin/events/264170536/
+This meetup is also supported by JetBrains who have provided us with a 1-year subscription to any of their IDEs.</description>
+    </item>
+    
+  </channel>
+</rss>

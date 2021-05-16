@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brighton Kotlin</title>
+    <link>/</link>
+    <description>Recent content on Brighton Kotlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 Brighton Kotlin</copyright>
+    <lastBuildDate>Sat, 12 Oct 2019 22:09:08 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin Multiplatform at HMRC By George Herbert</title>
+      <link>/blog/kolin-multiplatform-hmrc-george-herbert/</link>
+      <pubDate>Sat, 12 Oct 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/blog/kolin-multiplatform-hmrc-george-herbert/</guid>
+      <description>We are extremely lucky to have a talk this month by George Herbert from Capgemini where he will discuss how Kotlin Multiplatform (KMP) was implemented at HMRC.
+During this talk, he will talk about the reasons behind the use of KMP and how he made it work with iOS, Android and Web. Come along to find out whether KMP could be used in your projects or maybe just to pique your interest into the world of KMP!</description>
+    </item>
+    
+    <item>
+      <title>Successful Inaugural Brighton Kotlin Meetup</title>
+      <link>/blog/successful-inaugural-brighton-kotlin-meetup/</link>
+      <pubDate>Sun, 29 Sep 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/blog/successful-inaugural-brighton-kotlin-meetup/</guid>
+      <description>It was great to see so many people come along to the first ever Brighton Kotlin meetup. It really showed that there is an active Kotlin community in Brighton with people working on projects using a range of technologies from the Kotlin ecosystem. You can see the photos of the event at our meetup page - https://www.meetup.com/Brighton-Kotlin/photos/30344969/
+At this meetup Lee Turner talked about how Crunch have been introducing Kotlin into their backend microservice architecture over the past year, the results and challenges they have seen during that time and where they plan to take it next.</description>
+    </item>
+    
+    <item>
+      <title>Kotlin/Everywhere - Inaugural Brighton Kotlin Meetup</title>
+      <link>/blog/kotlin-everywhere-inaugural-brighton-kotlin-meetup/</link>
+      <pubDate>Tue, 20 Aug 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/blog/kotlin-everywhere-inaugural-brighton-kotlin-meetup/</guid>
+      <description>This will be the inaugural Brighton Kotlin meetup. The talks on the night are yet to be announced.
+The meetup is hosted and sponsored by Crunch who are providing pizza and a choice of alcoholic and non-alcoholic drinks.
+RSVPs close at 5pm on the day, with Doors at 6:30pm. Talks will begin at 7:15pm.
+Sign up on our meetup page - https://www.meetup.com/Brighton-Kotlin/events/264170536/
+This meetup is also supported by JetBrains who have provided us with a 1-year subscription to any of their IDEs.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Welcome to the Brighton Kotlin meetup group. This group is for Kotlin users, enthusiasts and learners from beginners to experts, and anyone wanting to get involved with the Kotlin/JVM ecosystem.
+We plan to have regular meetups, presentations and talks, and are always interested in hearing what people want to know about, so please let us know.
+Visit our Meetup Page and sign up to come along to our next event or follow us on Twitter for all the latest news.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-of-conduct/</guid>
+      <description>Event Code of Conduct &amp;amp; Anti-Harrassment Policy The Google Developer Groups, Kotlin User Groups and other Community Groups organizing these events [&amp;ldquo;Organizers&amp;rdquo;] are dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. They do not tolerate harassment of event participants in any form. The Organizers take violations of this policy seriously and will respond appropriately.</description>
+    </item>
+    
+  </channel>
+</rss>
