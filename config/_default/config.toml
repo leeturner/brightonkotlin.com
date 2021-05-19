@@ -12,6 +12,9 @@ enableRobotsTXT = true
 canonifyURLs = true
 copyright = "2021 Brighton Kotlin"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [permalinks]
 post = "/blog/:title/"
 
