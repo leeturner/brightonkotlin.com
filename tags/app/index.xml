@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>app on Brighton Kotlin</title>
+    <link>/tags/app/</link>
+    <description>Recent content in app on Brighton Kotlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 Brighton Kotlin</copyright>
+    <lastBuildDate>Thu, 21 Nov 2019 22:09:08 +0000</lastBuildDate><atom:link href="/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I learnt from a major sports brand app by Kübra Harmankaya</title>
+      <link>/blog/what-i-learnt-from-a-major-sports-brand-app-by-kubra-harmankaya/</link>
+      <pubDate>Thu, 21 Nov 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/blog/what-i-learnt-from-a-major-sports-brand-app-by-kubra-harmankaya/</guid>
+      <description>Welcome to our November Brighton Kotlin featuring Kübra Harmankaya as our guest speaker!
+If you are new to Kotlin or interested in Kotlin on mobile, this is a great meetup for you. Kubra will share her experiences why we should convert Android applications into modern Kotlin, how to start converting a Java project and best Kotlin practices.
+Kübra has contributed to Android apps for FC Barcelona, Premier League, British Council and for many other companies.</description>
+    </item>
+    
+  </channel>
+</rss>

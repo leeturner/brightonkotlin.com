@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin</copyright>
-    <lastBuildDate>Sat, 12 Oct 2019 22:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2019 22:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>xmas</title>
+      <link>/tags/xmas/</link>
+      <pubDate>Mon, 16 Dec 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/tags/xmas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>app</title>
+      <link>/tags/app/</link>
+      <pubDate>Thu, 21 Nov 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sports</title>
+      <link>/tags/sports/</link>
+      <pubDate>Thu, 21 Nov 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/tags/sports/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Multiplatform</title>
       <link>/tags/multiplatform/</link>

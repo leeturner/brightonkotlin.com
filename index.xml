@@ -7,7 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin</copyright>
-    <lastBuildDate>Sat, 12 Oct 2019 22:09:08 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2019 22:09:08 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xmas Drinks</title>
+      <link>/blog/2019-xmas-drinks/</link>
+      <pubDate>Mon, 16 Dec 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/blog/2019-xmas-drinks/</guid>
+      <description>Even though it is short notice, we thought what better way to finish the year than gathering in a pub and having a few drinks to celebrate a great end to the year.
+It would be great to see at the Hope and Ruin on the 16th December from 6:30pm on-wards
+We already have some great speakers lined up for the beginning of 2020 and we will be publishing those events very soon but for now, join us to toast the end of the year in Brighton Kotlin style.</description>
+    </item>
+    
+    <item>
+      <title>What I learnt from a major sports brand app by Kübra Harmankaya</title>
+      <link>/blog/what-i-learnt-from-a-major-sports-brand-app-by-kubra-harmankaya/</link>
+      <pubDate>Thu, 21 Nov 2019 22:09:08 +0000</pubDate>
+      
+      <guid>/blog/what-i-learnt-from-a-major-sports-brand-app-by-kubra-harmankaya/</guid>
+      <description>Welcome to our November Brighton Kotlin featuring Kübra Harmankaya as our guest speaker!
+If you are new to Kotlin or interested in Kotlin on mobile, this is a great meetup for you. Kubra will share her experiences why we should convert Android applications into modern Kotlin, how to start converting a Java project and best Kotlin practices.
+Kübra has contributed to Android apps for FC Barcelona, Premier League, British Council and for many other companies.</description>
+    </item>
+    
     <item>
       <title>Kotlin Multiplatform at HMRC By George Herbert</title>
       <link>/blog/kolin-multiplatform-hmrc-george-herbert/</link>
