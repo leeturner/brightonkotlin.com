@@ -4,9 +4,9 @@ description: The first Brighton Kotlin Meetup was a great success
 date: 2019-09-29T22:09:08Z
 author: Lee Turner
 type: post
-featured: "lee-turner-kotlin-one-year-on.jpg"
-featuredalt: "Lee Turner presenting - Kotlin 1 Year On"
-featuredpath: "/images/blog/2019/09/29/"
+featured: lee-turner-kotlin-one-year-on.jpg
+featuredalt: Lee Turner presenting - Kotlin 1 Year On
+featuredpath: /images/blog/2019/09/29/
 slug: successful-inaugural-brighton-kotlin-meetup
 aliases:
 - /blog/2019/9/29/successful-inaugural-brighton-kotlin-meetup/
@@ -27,3 +27,6 @@ A big shout out goes to [Crunch](https://medium.com/@crunchtech) who sponsored t
 ![Pizza provided by Crunch](/images/blog/2019/09/29/pizza.jpg)
 ![Beer provided by Crunch](/images/blog/2019/09/29/beer.jpg)
 
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1j7nFu9Tys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

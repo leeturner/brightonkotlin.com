@@ -4,9 +4,9 @@ description: We are extremely lucky to have a talk this month by George Herbert 
 date: 2019-10-12T22:09:08Z
 author: Lee Turner
 type: post
-featured: "002-kotlin-multiplatform-george-herbert.png"
-featuredalt: "Kotlin Multiplatform at HMRC By George Herbert"
-featuredpath: "/images/blog/2019/10/12/"
+featured: 002-kotlin-multiplatform-george-herbert.png
+featuredalt: Kotlin Multiplatform at HMRC By George Herbert
+featuredpath: /images/blog/2019/10/12/
 slug: kolin-multiplatform-hmrc-george-herbert
 aliases:
 - /blog/2019/10/12/kolin-multiplatform-hmrc-george-herbert/
@@ -29,3 +29,8 @@ This meetup is also supported by [JetBrains](https://www.jetbrains.com) who have
 You can also expect some Kotlin stickers as well :)
 
 ![Jetbrains Logo](/images/blog/jetbrains.png)
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KXbOZbeLsJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
