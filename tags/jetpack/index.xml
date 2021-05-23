@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jetpack on Brighton Kotlin</title>
+    <link>/tags/jetpack/</link>
+    <description>Recent content in jetpack on Brighton Kotlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 Brighton Kotlin</copyright>
+    <lastBuildDate>Thu, 25 Mar 2021 19:09:08 +0000</lastBuildDate><atom:link href="/tags/jetpack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Compose for Desktop by Sebastian Aigner</title>
+      <link>/blog/introducing-compose-for-desktop-sebastian-aigner/</link>
+      <pubDate>Thu, 25 Mar 2021 19:09:08 +0000</pubDate>
+      
+      <guid>/blog/introducing-compose-for-desktop-sebastian-aigner/</guid>
+      <description>Some time ago, JetBrains published versions of Compose for Desktop – a modern UI framework for Kotlin that makes building performant and beautiful user interfaces for Desktop applications easy and enjoyable.
+In this talk, We will learn a bit about the principles and technology behind Compose for Desktop, and see what it takes to get started with building UIs in pure Kotlin!
+Bio Seb is a Kotlin Developer Advocate at JetBrains</description>
+    </item>
+    
+  </channel>
+</rss>

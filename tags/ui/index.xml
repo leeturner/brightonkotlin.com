@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ui on Brighton Kotlin</title>
+    <link>/tags/ui/</link>
+    <description>Recent content in ui on Brighton Kotlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 Brighton Kotlin</copyright>
+    <lastBuildDate>Thu, 25 Mar 2021 18:09:08 +0000</lastBuildDate><atom:link href="/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling UI across platforms with Server Driven UI by Joe Birch</title>
+      <link>/blog/scaling-ui-across-platforms-server-driven-ui-joe-birch/</link>
+      <pubDate>Thu, 25 Mar 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/blog/scaling-ui-across-platforms-server-driven-ui-joe-birch/</guid>
+      <description>Mobile, Web, Desktop&amp;hellip; when working with multiple platforms for your product, you might start to feel like there is a lot for your team to maintain. If we update the design for a feature or want to test a new layout, we often need to make that change in multiple clients. This results in more time spent on the same task in multiple places, with less time being able to focus on delivering even more value to your users.</description>
+    </item>
+    
+  </channel>
+</rss>

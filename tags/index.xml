@@ -7,7 +7,79 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin</copyright>
-    <lastBuildDate>Mon, 16 Dec 2019 22:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 19:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>compose</title>
+      <link>/tags/compose/</link>
+      <pubDate>Thu, 25 Mar 2021 19:09:08 +0000</pubDate>
+      
+      <guid>/tags/compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desktop</title>
+      <link>/tags/desktop/</link>
+      <pubDate>Thu, 25 Mar 2021 19:09:08 +0000</pubDate>
+      
+      <guid>/tags/desktop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jetpack</title>
+      <link>/tags/jetpack/</link>
+      <pubDate>Thu, 25 Mar 2021 19:09:08 +0000</pubDate>
+      
+      <guid>/tags/jetpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphql</title>
+      <link>/tags/graphql/</link>
+      <pubDate>Thu, 25 Mar 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/tags/graphql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>/tags/server/</link>
+      <pubDate>Thu, 25 Mar 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ui</title>
+      <link>/tags/ui/</link>
+      <pubDate>Thu, 25 Mar 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/tags/ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coroutines</title>
+      <link>/tags/coroutines/</link>
+      <pubDate>Thu, 27 Feb 2020 22:09:08 +0000</pubDate>
+      
+      <guid>/tags/coroutines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flow</title>
+      <link>/tags/flow/</link>
+      <pubDate>Thu, 27 Feb 2020 22:09:08 +0000</pubDate>
+      
+      <guid>/tags/flow/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>xmas</title>
       <link>/tags/xmas/</link>

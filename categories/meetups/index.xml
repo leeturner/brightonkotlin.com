@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin</copyright>
-    <lastBuildDate>Mon, 16 Dec 2019 22:09:08 +0000</lastBuildDate><atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 19:09:08 +0000</lastBuildDate><atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Compose for Desktop by Sebastian Aigner</title>
+      <link>/blog/introducing-compose-for-desktop-sebastian-aigner/</link>
+      <pubDate>Thu, 25 Mar 2021 19:09:08 +0000</pubDate>
+      
+      <guid>/blog/introducing-compose-for-desktop-sebastian-aigner/</guid>
+      <description>Some time ago, JetBrains published versions of Compose for Desktop – a modern UI framework for Kotlin that makes building performant and beautiful user interfaces for Desktop applications easy and enjoyable.
+In this talk, We will learn a bit about the principles and technology behind Compose for Desktop, and see what it takes to get started with building UIs in pure Kotlin!
+Bio Seb is a Kotlin Developer Advocate at JetBrains</description>
+    </item>
+    
+    <item>
+      <title>Scaling UI across platforms with Server Driven UI by Joe Birch</title>
+      <link>/blog/scaling-ui-across-platforms-server-driven-ui-joe-birch/</link>
+      <pubDate>Thu, 25 Mar 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/blog/scaling-ui-across-platforms-server-driven-ui-joe-birch/</guid>
+      <description>Mobile, Web, Desktop&amp;hellip; when working with multiple platforms for your product, you might start to feel like there is a lot for your team to maintain. If we update the design for a feature or want to test a new layout, we often need to make that change in multiple clients. This results in more time spent on the same task in multiple places, with less time being able to focus on delivering even more value to your users.</description>
+    </item>
+    
+    <item>
+      <title>Getting into the Flow with Coroutines By Joseph Van De Wee</title>
+      <link>/blog/getting-into-the-flow-with-coroutines-joseph-van-de-wee/</link>
+      <pubDate>Thu, 27 Feb 2020 22:09:08 +0000</pubDate>
+      
+      <guid>/blog/getting-into-the-flow-with-coroutines-joseph-van-de-wee/</guid>
+      <description>Hot topics at KotlinConf, Coroutines and Flow provide an efficient way to handle asynchronous data streams.
+In this talk Joe will explore how we can use some of the basics from these APIs to provide fluid experiences for our users and avoid callback hell in our code. He’ll point out some of the common pitfalls along and way and look at how we can migrate from RxJava to Flow for reactive programming in Kotlin.</description>
+    </item>
+    
     <item>
       <title>Xmas Drinks</title>
       <link>/blog/2019-xmas-drinks/</link>
