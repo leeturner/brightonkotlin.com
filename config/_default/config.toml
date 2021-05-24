@@ -131,19 +131,25 @@ weight = 2
 name = "Blog"
 url = "/blog/"
 identifier = "fa fa-newspaper-o"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Join Our Meetup"
 url = "https://www.meetup.com/Brighton-Kotlin/"
 identifier = "fa fa-meetup"
-weight = 3
+weight = 4
+
+[[menu.main]]
+name = "Silicon Brighton"
+url = "/silicon-brighton"
+identifier = "fa fa-users"
+weight = 5
 
 [[menu.main]]
 name = "Code of Conduct"
 url = "/code-of-conduct/"
 identifier = "fa fa-envelope-o"
-weight = 4
+weight = 6
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
