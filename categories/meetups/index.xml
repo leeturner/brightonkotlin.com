@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin</copyright>
-    <lastBuildDate>Thu, 25 Mar 2021 19:09:08 +0000</lastBuildDate><atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 May 2021 18:09:08 +0000</lastBuildDate><atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Fresh Look at Kotlin Coroutines by Laksitha Ranasingha</title>
+      <link>/blog/a-fresh-look-at-coroutines-laksitha-ranasingha/</link>
+      <pubDate>Sun, 30 May 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/blog/a-fresh-look-at-coroutines-laksitha-ranasingha/</guid>
+      <description>The June Brighton Kotlin meetup takes place on Thursday 27th June at 6 pm GMT. We will be opening zoom just before 6pm for people to gather and chat. The link will be sent out on the day of the talk. The event will begin around 6pm.
+We&amp;rsquo;ll be welcoming Laksitha Ranasingha who will take a fresh look at Coroutines:
+Ok, Kotlin is cool and fun. It&amp;rsquo;s even better with built in coroutine support.</description>
+    </item>
+    
     <item>
       <title>Introducing Compose for Desktop by Sebastian Aigner</title>
       <link>/blog/introducing-compose-for-desktop-sebastian-aigner/</link>
