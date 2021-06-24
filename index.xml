@@ -7,7 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin</copyright>
-    <lastBuildDate>Sun, 30 May 2021 18:09:08 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 18:09:08 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines by Raul Hernandez Lopez</title>
+      <link>/blog/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines-raul-hernandez-lopez/</link>
+      <pubDate>Wed, 02 Jun 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/blog/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines-raul-hernandez-lopez/</guid>
+      <description>The June Brighton Kotlin meetup takes place on Thursday 27th June at 6 pm GMT. We will be opening zoom just before 6pm for people to gather and chat. The link will be sent out on the day of the talk. The event will begin around 6pm.
+We&amp;rsquo;ll be welcoming our third speaker - Raul Hernandez Lopez who will give a talk called Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines</description>
+    </item>
+    
+    <item>
+      <title>Compose your Trill by Luca Nicoletti</title>
+      <link>/blog/compose-your-trill-luca-nicoletti/</link>
+      <pubDate>Tue, 01 Jun 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/blog/compose-your-trill-luca-nicoletti/</guid>
+      <description>The June Brighton Kotlin meetup takes place on Thursday 27th June at 6 pm GMT. We will be opening zoom just before 6pm for people to gather and chat. The link will be sent out on the day of the talk. The event will begin around 6pm.
+We&amp;rsquo;ll be welcoming our second speaker - Luca Nicoletti who will give a talk called Compose your Trill
+This talk will cover the following topic:</description>
+    </item>
+    
     <item>
       <title>A Fresh Look at Kotlin Coroutines by Laksitha Ranasingha</title>
       <link>/blog/a-fresh-look-at-coroutines-laksitha-ranasingha/</link>
