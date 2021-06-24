@@ -16,7 +16,7 @@ tags:
 
 The June Brighton Kotlin meetup takes place on Thursday 27th June at 6 pm GMT. We will be opening zoom just before 6pm for people to gather and chat. The link will be sent out on the day of the talk. The event will begin around 6pm.
 
-We'll be welcoming Laksitha Ranasingha who will take a fresh look at Coroutines:
+We'll be welcoming Laksitha Ranasingha who will take *a fresh look at Coroutines*:
 
 Ok, Kotlin is cool and fun. It's even better with built in coroutine support. As Kotlin is getting popular in backend development, I would like to share my recent experience of using coroutines.
 
