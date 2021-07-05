@@ -32,3 +32,7 @@ Connect with Raul:
 
 * Twitter: https://twitter.com/RaulHernandezL
 * LinkedIn: https://uk.linkedin.com/in/raulhernandezl
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wCU4AK8Z39w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

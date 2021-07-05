@@ -35,3 +35,7 @@ Connect with Luca:
 
 * Twitter: https://twitter.com/luca_nicolett
 * LinkedIn: https://www.linkedin.com/in/luca-nicoletti-7171b1ab/
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-TgtGwtOtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
