@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin</copyright>
-    <lastBuildDate>Mon, 05 Jul 2021 18:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jul 2021 18:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>http4k</title>
+      <link>/tags/http4k/</link>
+      <pubDate>Sat, 10 Jul 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/tags/http4k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live coding</title>
+      <link>/tags/live-coding/</link>
+      <pubDate>Sat, 10 Jul 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/tags/live-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server as a function</title>
+      <link>/tags/server-as-a-function/</link>
+      <pubDate>Sat, 10 Jul 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/tags/server-as-a-function/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>arrow</title>
       <link>/tags/arrow/</link>

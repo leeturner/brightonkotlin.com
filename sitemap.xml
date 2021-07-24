@@ -2,28 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/arrow/</loc>
-    <lastmod>2021-07-05T18:09:08+00:00</lastmod>
-  </url><url>
     <loc>/blog/</loc>
-    <lastmod>2021-07-05T18:09:08+00:00</lastmod>
+    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-07-05T18:09:08+00:00</lastmod>
+    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
+    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/http4k/</loc>
+    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/live-coding/</loc>
+    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/blog/server-as-a-function-with-http4k-with-dmitry-kandalov/</loc>
+    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/categories/meetups/</loc>
+    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/server-as-a-function/</loc>
+    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/arrow/</loc>
     <lastmod>2021-07-05T18:09:08+00:00</lastmod>
   </url><url>
     <loc>/tags/functional/</loc>
     <lastmod>2021-07-05T18:09:08+00:00</lastmod>
   </url><url>
     <loc>/blog/functional-kotlin-with-arrow-karin-aleksandra-monoid/</loc>
-    <lastmod>2021-07-05T18:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/categories/meetups/</loc>
-    <lastmod>2021-07-05T18:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-07-05T18:09:08+00:00</lastmod>
   </url><url>
     <loc>/tags/coroutines/</loc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>http4k on Brighton Kotlin</title>
+    <link>/tags/http4k/</link>
+    <description>Recent content in http4k on Brighton Kotlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 Brighton Kotlin</copyright>
+    <lastBuildDate>Sat, 10 Jul 2021 18:09:08 +0000</lastBuildDate><atom:link href="/tags/http4k/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live coding server as a function with http4k with Dmitry Kandalov</title>
+      <link>/blog/server-as-a-function-with-http4k-with-dmitry-kandalov/</link>
+      <pubDate>Sat, 10 Jul 2021 18:09:08 +0000</pubDate>
+      
+      <guid>/blog/server-as-a-function-with-http4k-with-dmitry-kandalov/</guid>
+      <description>Http4k is a lightweight HTTP library written in Kotlin that enables serving and consuming of HTTP services in a functional and testable way. Unlike many other libraries and frameworks which have complicated abstractions and workflows, http4k captures the essence of communication over HTTP with a few simple concepts. In this session I will explain and demo the core concepts in http4k by live coding from scratch an HTTP server which will simulate the board from the noughts and crosses game.</description>
+    </item>
+    
+  </channel>
+</rss>
