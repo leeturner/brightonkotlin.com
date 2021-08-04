@@ -26,3 +26,7 @@ Connect with Dmitry:
 
 * Twitter: https://twitter.com/dmitrykandalov
 * LinkedIn: https://www.linkedin.com/in/kandalov/
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8RpGIUwe7dI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
