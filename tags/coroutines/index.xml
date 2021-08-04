@@ -6,7 +6,7 @@
     <description>Recent content in coroutines on Brighton Kotlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2021 Brighton Kotlin</copyright>
+    <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 02 Jun 2021 18:09:08 +0000</lastBuildDate><atom:link href="/tags/coroutines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines by Raul Hernandez Lopez</title>

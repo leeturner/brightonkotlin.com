@@ -6,7 +6,7 @@
     <description>Recent content in flow on Brighton Kotlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2021 Brighton Kotlin</copyright>
+    <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 27 Feb 2020 22:09:08 +0000</lastBuildDate><atom:link href="/tags/flow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting into the Flow with Coroutines By Joseph Van De Wee</title>
