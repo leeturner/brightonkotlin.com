@@ -2,17 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/apollo/</loc>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
+  </url><url>
     <loc>/blog/</loc>
-    <lastmod>2021-08-04T08:09:08+00:00</lastmod>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-08-04T08:09:08+00:00</lastmod>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-08-04T08:09:08+00:00</lastmod>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/compose/</loc>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/graphql/</loc>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kmm/</loc>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
   </url><url>
     <loc>/categories/meetups/</loc>
-    <lastmod>2021-08-04T08:09:08+00:00</lastmod>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/swiftui/</loc>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/blog/using-graphqpl-kmm-project-with-jetpack-compose-and-swiftui-john-oreilly/</loc>
+    <lastmod>2021-09-05T17:09:08+00:00</lastmod>
   </url><url>
     <loc>/blog/taking-a-break-through-august-2021/</loc>
     <lastmod>2021-08-04T08:09:08+00:00</lastmod>
@@ -27,9 +48,6 @@
     <lastmod>2021-07-10T18:09:08+00:00</lastmod>
   </url><url>
     <loc>/tags/server-as-a-function/</loc>
-    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-07-10T18:09:08+00:00</lastmod>
   </url><url>
     <loc>/tags/arrow/</loc>
@@ -53,9 +71,6 @@
     <loc>/tags/unidirectional-data-flow/</loc>
     <lastmod>2021-06-02T18:09:08+00:00</lastmod>
   </url><url>
-    <loc>/tags/compose/</loc>
-    <lastmod>2021-06-01T18:09:08+00:00</lastmod>
-  </url><url>
     <loc>/blog/compose-your-trill-luca-nicoletti/</loc>
     <lastmod>2021-06-01T18:09:08+00:00</lastmod>
   </url><url>
@@ -70,9 +85,6 @@
   </url><url>
     <loc>/blog/introducing-compose-for-desktop-sebastian-aigner/</loc>
     <lastmod>2021-03-25T19:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/graphql/</loc>
-    <lastmod>2021-03-25T18:09:08+00:00</lastmod>
   </url><url>
     <loc>/blog/scaling-ui-across-platforms-server-driven-ui-joe-birch/</loc>
     <lastmod>2021-03-25T18:09:08+00:00</lastmod>

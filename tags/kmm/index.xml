@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KMM on Brighton Kotlin</title>
+    <link>/tags/kmm/</link>
+    <description>Recent content in KMM on Brighton Kotlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 05 Sep 2021 17:09:08 +0000</lastBuildDate><atom:link href="/tags/kmm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using GraphQL in a KMM project with Jetpack Compose and SwiftUI with John O&#39;Reilly</title>
+      <link>/blog/using-graphqpl-kmm-project-with-jetpack-compose-and-swiftui-john-oreilly/</link>
+      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      
+      <guid>/blog/using-graphqpl-kmm-project-with-jetpack-compose-and-swiftui-john-oreilly/</guid>
+      <description>In this talk John will show how GraphQL, using Apollo library, can be used in shared code a Kotlin Multiplatform project that uses Jetpack Compose Android and SwiftUI iOS clients.
+The talk will cover:
+ use of Apollo GraphQL library, and it&amp;rsquo;s Kotlin Multiplatform support allowing addition of GraphQL queries and related logic in code shared between iOS and Android clients. development of clients using Declarative UI frameworks (using Jetpack Compose on Android and SwiftUI on iOS)  Bio John O&amp;rsquo;Reilly is a Software Engineer at Neat</description>
+    </item>
+    
+  </channel>
+</rss>

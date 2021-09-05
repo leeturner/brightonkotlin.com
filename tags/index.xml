@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 10 Jul 2021 18:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Sep 2021 17:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apollo</title>
+      <link>/tags/apollo/</link>
+      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      
+      <guid>/tags/apollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compose</title>
+      <link>/tags/compose/</link>
+      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      
+      <guid>/tags/compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphql</title>
+      <link>/tags/graphql/</link>
+      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      
+      <guid>/tags/graphql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KMM</title>
+      <link>/tags/kmm/</link>
+      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      
+      <guid>/tags/kmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SwiftUI</title>
+      <link>/tags/swiftui/</link>
+      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      
+      <guid>/tags/swiftui/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>http4k</title>
       <link>/tags/http4k/</link>
@@ -81,15 +126,6 @@
     </item>
     
     <item>
-      <title>compose</title>
-      <link>/tags/compose/</link>
-      <pubDate>Tue, 01 Jun 2021 18:09:08 +0000</pubDate>
-      
-      <guid>/tags/compose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>jetpack</title>
       <link>/tags/jetpack/</link>
       <pubDate>Tue, 01 Jun 2021 18:09:08 +0000</pubDate>
@@ -104,15 +140,6 @@
       <pubDate>Thu, 25 Mar 2021 19:09:08 +0000</pubDate>
       
       <guid>/tags/desktop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graphql</title>
-      <link>/tags/graphql/</link>
-      <pubDate>Thu, 25 Mar 2021 18:09:08 +0000</pubDate>
-      
-      <guid>/tags/graphql/</guid>
       <description></description>
     </item>
     
