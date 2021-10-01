@@ -7,12 +7,15 @@ type: post
 featured: bk_shelby_and_katie.png
 featuredalt: The Best of Both Worlds - Kotlin + FP with Shelby Cohen and Katie Levy
 featuredpath: /images/blog/2021/09/10/
-slug: the-best-of-both-worlds-kotlin-fp-shelby-cohen-katie-levy.md
+slug: the-best-of-both-worlds-kotlin-fp-shelby-cohen-katie-levy
 categories:
 - Meetups
 tags:
 - functional
 - arrow
+aliases:
+- /blog/the-best-of-both-worlds-kotlin-fp-shelby-cohen-katie-levy.md/
+
 ---
 
 Functional Programming is an excellent way to simplify your code and reduce bugs, and to make things even better, Kotlin provides a natural transition to using Functional Programming paradigms. But before that, let's talk about what Functional Programming even is. In this talk, we'll break down the key aspects of what defines Functional Programming and the key benefits of using Functional Programming paradigms. Then we'll walk you through how to use Functional Programming more in your Kotlin code to really have the best of both worlds. We'll dip our toes into some basic examples, then dive into the deep-end with some more complex data structures from Arrow, a Functional Programming library for Kotlin.
