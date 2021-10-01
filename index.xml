@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 05 Sep 2021 17:09:08 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 17:09:08 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Best of Both Worlds - Kotlin &#43; FP with Shelby Cohen and Katie Levy</title>
+      <link>/blog/the-best-of-both-worlds-kotlin-fp-shelby-cohen-katie-levy.md/</link>
+      <pubDate>Fri, 10 Sep 2021 17:09:08 +0000</pubDate>
+      
+      <guid>/blog/the-best-of-both-worlds-kotlin-fp-shelby-cohen-katie-levy.md/</guid>
+      <description>Functional Programming is an excellent way to simplify your code and reduce bugs, and to make things even better, Kotlin provides a natural transition to using Functional Programming paradigms. But before that, let&amp;rsquo;s talk about what Functional Programming even is. In this talk, we&amp;rsquo;ll break down the key aspects of what defines Functional Programming and the key benefits of using Functional Programming paradigms. Then we&amp;rsquo;ll walk you through how to use Functional Programming more in your Kotlin code to really have the best of both worlds.</description>
+    </item>
+    
     <item>
       <title>Using GraphQL in a KMM project with Jetpack Compose and SwiftUI with John O&#39;Reilly</title>
       <link>/blog/using-graphqpl-kmm-project-with-jetpack-compose-and-swiftui-john-oreilly/</link>
