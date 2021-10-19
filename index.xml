@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 10 Sep 2021 17:09:08 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Oct 2021 17:09:08 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ktor from Ground Up with Anton Arhipov</title>
+      <link>/blog/ktor-from-the-ground-up-anton-arhipov/</link>
+      <pubDate>Sun, 10 Oct 2021 17:09:08 +0000</pubDate>
+      
+      <guid>/blog/ktor-from-the-ground-up-anton-arhipov/</guid>
+      <description>In this talk, I&amp;rsquo;m going to focus primarily on Ktor for backend development. Let&amp;rsquo;s see how simple it is to create robust asynchronous server-side applications with Ktor. We&amp;rsquo;ll look into Ktor&amp;rsquo;s features, deployment, extensibility model.
+Bio Anton is a Developer Advocate at JetBrains
+Connect with Anton:
+ Twitter: https://twitter.com/antonarhipov LinkedIn: https://www.linkedin.com/in/antonarhipov/  </description>
+    </item>
+    
     <item>
       <title>The Best of Both Worlds - Kotlin &#43; FP with Shelby Cohen and Katie Levy</title>
       <link>/blog/the-best-of-both-worlds-kotlin-fp-shelby-cohen-katie-levy/</link>
