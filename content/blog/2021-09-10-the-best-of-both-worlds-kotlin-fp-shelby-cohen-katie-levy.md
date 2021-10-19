@@ -33,3 +33,8 @@ Katie Levy is a Software Engineer at Amazon. Connect with Katie:
 
 * Twitter: https://twitter.com/klevy110/
 * LinkedIn: https://www.linkedin.com/in/katielevy1/
+
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mDlgFxKuvQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
