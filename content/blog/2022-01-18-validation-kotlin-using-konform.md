@@ -6,7 +6,7 @@ author: Lee Turner
 type: post
 featured: andrew-szaby.png
 featuredalt: Validation in Kotlin using Konform with Andrew Liles & Szaby Gyurko
-featuredpath: /images/blog/2022/01/18/
+featuredpath: /images/blog/2022/01/
 slug: validation-in-kotlin-using-konform
 categories:
 - Meetups
