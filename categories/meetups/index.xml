@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 22 Nov 2021 17:09:08 +0000</lastBuildDate><atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 17:09:08 +0000</lastBuildDate><atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Validation in Kotlin using Konform with Andrew Liles &amp; Szaby Gyurko</title>
+      <link>/blog/validation-in-kotlin-using-konform/</link>
+      <pubDate>Tue, 18 Jan 2022 17:09:08 +0000</pubDate>
+      
+      <guid>/blog/validation-in-kotlin-using-konform/</guid>
+      <description>In the first of our 2022 talks will be welcoming Andrew Liles &amp;amp; Szaby Gyurko, the CTO and Head of Engineering at Reset Health. They will be talking about their experience of Validation in Kotlin using Konform.
+Want a means to validate input in Kotlin using a Kotlin idiomatic syntax? Andrew &amp;amp; Szaby&amp;rsquo;s team is building server-side Kotlin REST applications and chose Spring as the framework but decided to look beyond the traditional simple Spring annotation-driven approach.</description>
+    </item>
+    
     <item>
       <title>Bootiful Kotlin with Josh Long</title>
       <link>/blog/bootiful-kotlin-josh-long/</link>
