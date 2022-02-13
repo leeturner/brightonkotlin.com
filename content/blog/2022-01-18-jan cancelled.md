@@ -1,7 +1,7 @@
 ---
 title: January Brighton Kotlin Cancelled 
 description: Unfortunately our Jan 2022 Brighton Kotlin was cancelled
-date: 2022-02-18T17:09:08Z
+date: 2022-01-18T17:09:08Z
 author: Lee Turner
 type: post
 featured: bk-banner.png

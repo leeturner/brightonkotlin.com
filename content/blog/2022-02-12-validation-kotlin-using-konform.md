@@ -1,12 +1,12 @@
 ---
 title: Validation in Kotlin using Konform with Andrew Liles & Szaby Gyurko
 description: Welcome to the first of our 2022 speakers - Andrew Liles & Szaby Gyurko
-date: 2022-02-18T17:09:08Z
+date: 2022-02-12T17:09:08Z
 author: Lee Turner
 type: post
 featured: andrew-szaby.png
 featuredalt: Validation in Kotlin using Konform with Andrew Liles & Szaby Gyurko
-featuredpath: /images/blog/2022/01/
+featuredpath: /images/blog/2022/02/
 slug: validation-in-kotlin-using-konform
 categories:
 - Meetups
