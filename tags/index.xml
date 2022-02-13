@@ -7,56 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 23 Jan 2022 10:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Android</title>
-      <link>/tags/android/</link>
-      <pubDate>Sun, 23 Jan 2022 10:09:08 +0000</pubDate>
-      
-      <guid>/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dependency Injection</title>
-      <link>/tags/dependency-injection/</link>
-      <pubDate>Sun, 23 Jan 2022 10:09:08 +0000</pubDate>
-      
-      <guid>/tags/dependency-injection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DI</title>
-      <link>/tags/di/</link>
-      <pubDate>Sun, 23 Jan 2022 10:09:08 +0000</pubDate>
-      
-      <guid>/tags/di/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Koin</title>
-      <link>/tags/koin/</link>
-      <pubDate>Sun, 23 Jan 2022 10:09:08 +0000</pubDate>
-      
-      <guid>/tags/koin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Konform</title>
-      <link>/tags/konform/</link>
-      <pubDate>Tue, 18 Jan 2022 17:09:08 +0000</pubDate>
-      
-      <guid>/tags/konform/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 22 Nov 2021 17:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring</title>
       <link>/tags/spring/</link>
-      <pubDate>Tue, 18 Jan 2022 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 22 Nov 2021 17:09:08 +0000</pubDate>
       
       <guid>/tags/spring/</guid>
       <description></description>
@@ -65,7 +20,7 @@
     <item>
       <title>SpringBoot</title>
       <link>/tags/springboot/</link>
-      <pubDate>Tue, 18 Jan 2022 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 22 Nov 2021 17:09:08 +0000</pubDate>
       
       <guid>/tags/springboot/</guid>
       <description></description>
@@ -74,7 +29,7 @@
     <item>
       <title>SpringFramework</title>
       <link>/tags/springframework/</link>
-      <pubDate>Tue, 18 Jan 2022 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 22 Nov 2021 17:09:08 +0000</pubDate>
       
       <guid>/tags/springframework/</guid>
       <description></description>

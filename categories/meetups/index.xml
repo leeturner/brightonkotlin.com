@@ -7,29 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 23 Jan 2022 10:09:08 +0000</lastBuildDate><atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Android Architecture Design with Koin with Arnaud Giuliani</title>
-      <link>/blog/android-architectured-design-koin-arnaud-giulianid/</link>
-      <pubDate>Sun, 23 Jan 2022 10:09:08 +0000</pubDate>
-      
-      <guid>/blog/android-architectured-design-koin-arnaud-giulianid/</guid>
-      <description>In the second of our 2022 talks will be welcoming Arnaud Giuliani, the creator of the Koin framework.
-Koin is a pragmatic dependency injection framework for Kotlin/Android developers, well known for its ease of use.
-In this session, I propose to see together how we can structure our components, for the following topics:
- Classical Components in MVP, MVVM Dealing with Scopes Jetpack Navigation Jetpack Compose Integrating with Multi-Platform  And an overview of incoming new features.</description>
-    </item>
-    
-    <item>
-      <title>Validation in Kotlin using Konform with Andrew Liles &amp; Szaby Gyurko</title>
-      <link>/blog/validation-in-kotlin-using-konform/</link>
-      <pubDate>Tue, 18 Jan 2022 17:09:08 +0000</pubDate>
-      
-      <guid>/blog/validation-in-kotlin-using-konform/</guid>
-      <description>In the first of our 2022 talks will be welcoming Andrew Liles &amp;amp; Szaby Gyurko, the CTO and Head of Engineering at Reset Health. They will be talking about their experience of Validation in Kotlin using Konform.
-Want a means to validate input in Kotlin using a Kotlin idiomatic syntax? Andrew &amp;amp; Szaby&amp;rsquo;s team is building server-side Kotlin REST applications and chose Spring as the framework but decided to look beyond the traditional simple Spring annotation-driven approach.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 22 Nov 2021 17:09:08 +0000</lastBuildDate><atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootiful Kotlin with Josh Long</title>
       <link>/blog/bootiful-kotlin-josh-long/</link>

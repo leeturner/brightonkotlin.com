@@ -2,52 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/android/</loc>
-    <lastmod>2022-01-23T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/blog/android-architectured-design-koin-arnaud-giulianid/</loc>
-    <lastmod>2022-01-23T10:09:08+00:00</lastmod>
-  </url><url>
     <loc>/blog/</loc>
-    <lastmod>2022-01-23T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-01-23T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-01-23T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/dependency-injection/</loc>
-    <lastmod>2022-01-23T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/di/</loc>
-    <lastmod>2022-01-23T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/koin/</loc>
-    <lastmod>2022-01-23T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/categories/meetups/</loc>
-    <lastmod>2022-01-23T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-01-23T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/konform/</loc>
-    <lastmod>2022-01-18T17:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/spring/</loc>
-    <lastmod>2022-01-18T17:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/springboot/</loc>
-    <lastmod>2022-01-18T17:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/springframework/</loc>
-    <lastmod>2022-01-18T17:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/blog/validation-in-kotlin-using-konform/</loc>
-    <lastmod>2022-01-18T17:09:08+00:00</lastmod>
+    <lastmod>2021-11-22T17:09:08+00:00</lastmod>
   </url><url>
     <loc>/blog/bootiful-kotlin-josh-long/</loc>
+    <lastmod>2021-11-22T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-11-22T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-11-22T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/categories/meetups/</loc>
+    <lastmod>2021-11-22T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/spring/</loc>
+    <lastmod>2021-11-22T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/springboot/</loc>
+    <lastmod>2021-11-22T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/springframework/</loc>
+    <lastmod>2021-11-22T17:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2021-11-22T17:09:08+00:00</lastmod>
   </url><url>
     <loc>/tags/ktor/</loc>
