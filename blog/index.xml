@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 22 Nov 2021 17:09:08 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2022 17:09:08 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Validation in Kotlin using Konform with Andrew Liles &amp; Szaby Gyurko</title>
+      <link>/blog/validation-in-kotlin-using-konform/</link>
+      <pubDate>Sat, 12 Feb 2022 17:09:08 +0000</pubDate>
+      
+      <guid>/blog/validation-in-kotlin-using-konform/</guid>
+      <description>In the first of our February 2022 talks will be welcoming Andrew Liles &amp;amp; Szaby Gyurko, the CTO and Head of Engineering at Reset Health. They will be talking about their experience of Validation in Kotlin using Konform.
+Want a means to validate input in Kotlin using a Kotlin idiomatic syntax? Andrew &amp;amp; Szaby&amp;rsquo;s team is building server-side Kotlin REST applications and chose Spring as the framework but decided to look beyond the traditional simple Spring annotation-driven approach.</description>
+    </item>
+    
+    <item>
+      <title>January Brighton Kotlin Cancelled</title>
+      <link>/blog/jan-cancelled/</link>
+      <pubDate>Tue, 18 Jan 2022 17:09:08 +0000</pubDate>
+      
+      <guid>/blog/jan-cancelled/</guid>
+      <description>Unfortunately the first meetup of 2022 had to be cancelled due to some problematic people on the call and not having the best Zoom setup in place. You can find all the details on the Jan meetup page in the comments - https://www.meetup.com/Brighton-Kotlin/events/282800639/
+This has now been addressed, and we are looking forward to our Feb meetup. Come and join us - https://www.meetup.com/Brighton-Kotlin/events/283500154/</description>
+    </item>
+    
     <item>
       <title>Bootiful Kotlin with Josh Long</title>
       <link>/blog/bootiful-kotlin-josh-long/</link>
