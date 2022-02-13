@@ -10,7 +10,6 @@ featuredpath: /images/
 slug: jan-cancelled
 categories:
 - Meetups
-tags:
 
 ---
 
