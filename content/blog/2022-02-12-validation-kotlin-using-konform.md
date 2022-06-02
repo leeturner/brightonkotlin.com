@@ -28,3 +28,6 @@ Andrew Liles & Szaby Gyurko are the CTO and Head of Engineering at Reset Health.
 
 * LinkedIn: https://www.linkedin.com/in/andrew-liles/
 
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fiMOCqY6Z0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
