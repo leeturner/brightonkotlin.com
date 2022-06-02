@@ -16,7 +16,7 @@
       <guid>/blog/using-graphqpl-kmm-project-with-jetpack-compose-and-swiftui-john-oreilly/</guid>
       <description>In this talk John will show how GraphQL, using Apollo library, can be used in shared code a Kotlin Multiplatform project that uses Jetpack Compose Android and SwiftUI iOS clients.
 The talk will cover:
- use of Apollo GraphQL library, and it&amp;rsquo;s Kotlin Multiplatform support allowing addition of GraphQL queries and related logic in code shared between iOS and Android clients. development of clients using Declarative UI frameworks (using Jetpack Compose on Android and SwiftUI on iOS)  Bio John O&amp;rsquo;Reilly is a Software Engineer at Neat</description>
+use of Apollo GraphQL library, and it&amp;rsquo;s Kotlin Multiplatform support allowing addition of GraphQL queries and related logic in code shared between iOS and Android clients. development of clients using Declarative UI frameworks (using Jetpack Compose on Android and SwiftUI on iOS) Bio John O&amp;rsquo;Reilly is a Software Engineer at Neat</description>
     </item>
     
     <item>

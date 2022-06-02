@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 12 Feb 2022 17:09:08 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jun 2022 10:09:08 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android Architecture Design with Koin with Arnaud Giuliani</title>
+      <link>/blog/android-architecture-design-with-koin/</link>
+      <pubDate>Thu, 02 Jun 2022 10:09:08 +0000</pubDate>
+      
+      <guid>/blog/android-architecture-design-with-koin/</guid>
+      <description>We&amp;rsquo;ll be welcoming Arnaud Giuliani so sign up, spread the word, BYOB and pizza, and join the conversation!
+&amp;mdash;&amp;mdash;&amp;ndash; Arnaud Giuliani &amp;mdash;&amp;mdash; Android Architecture Design with Koin
+Koin (https://insert-koin.io) is a pragmatic dependency injection framework for Kotlin/Android developers, well known for its ease of use.
+In this session, I propose to see together how we can structure our components, for the following topics:
+Classical Components in MVP, MVVM Dealing with Scopes Jetpack Navigation Jetpack Compose Integrating with Multi-Platform And an overview of incoming new features.</description>
+    </item>
+    
     <item>
       <title>Validation in Kotlin using Konform with Andrew Liles &amp; Szaby Gyurko</title>
       <link>/blog/validation-in-kotlin-using-konform/</link>
@@ -47,7 +60,7 @@ Kotlin, the productivity-focused language from our friends at JetBrains, takes u
       <description>In this talk, I&amp;rsquo;m going to focus primarily on Ktor for backend development. Let&amp;rsquo;s see how simple it is to create robust asynchronous server-side applications with Ktor. We&amp;rsquo;ll look into Ktor&amp;rsquo;s features, deployment, extensibility model.
 Bio Anton is a Developer Advocate at JetBrains
 Connect with Anton:
- Twitter: https://twitter.com/antonarhipov LinkedIn: https://www.linkedin.com/in/antonarhipov/  Recording </description>
+Twitter: https://twitter.com/antonarhipov LinkedIn: https://www.linkedin.com/in/antonarhipov/ Recording </description>
     </item>
     
     <item>
@@ -67,7 +80,7 @@ Connect with Anton:
       <guid>/blog/using-graphqpl-kmm-project-with-jetpack-compose-and-swiftui-john-oreilly/</guid>
       <description>In this talk John will show how GraphQL, using Apollo library, can be used in shared code a Kotlin Multiplatform project that uses Jetpack Compose Android and SwiftUI iOS clients.
 The talk will cover:
- use of Apollo GraphQL library, and it&amp;rsquo;s Kotlin Multiplatform support allowing addition of GraphQL queries and related logic in code shared between iOS and Android clients. development of clients using Declarative UI frameworks (using Jetpack Compose on Android and SwiftUI on iOS)  Bio John O&amp;rsquo;Reilly is a Software Engineer at Neat</description>
+use of Apollo GraphQL library, and it&amp;rsquo;s Kotlin Multiplatform support allowing addition of GraphQL queries and related logic in code shared between iOS and Android clients. development of clients using Declarative UI frameworks (using Jetpack Compose on Android and SwiftUI on iOS) Bio John O&amp;rsquo;Reilly is a Software Engineer at Neat</description>
     </item>
     
     <item>
