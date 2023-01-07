@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 02 Jun 2022 10:09:08 +0000</lastBuildDate><atom:link href="/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 10:09:08 +0000</lastBuildDate><atom:link href="/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with the Micronaut Framework</title>
+      <link>/blog/getting-started-with-micronaut/</link>
+      <pubDate>Sun, 01 Jan 2023 10:09:08 +0000</pubDate>
+      
+      <guid>/blog/getting-started-with-micronaut/</guid>
+      <description>We are very excited to welcome Sergio del Amo Caballero. He will be giving a talk on Getting Started with the Micronaut Framework
+In this session, Sergio del Amo introduces the Micronaut® framework and demonstrates how the Framework&amp;rsquo;s unique compile-time approach enables the development of ultra-lightweight Java applications.
+Compelling aspects of the Micronaut framework include:
+Develop applications with Java, Kotlin, or Apache Groovy Sub-second startup time Small processes that can run in as little as 10 MB of JVM heap No runtime reflection Dependency injection and AOP Reflection-free serialization A database access toolkit that uses ahead-of-time (AoT) compilation to pre-compute queries for repository interfaces.</description>
+    </item>
+    
     <item>
       <title>Android Architecture Design with Koin with Arnaud Giuliani</title>
       <link>/blog/android-architecture-design-with-koin/</link>
@@ -19,29 +31,6 @@
 Koin (https://insert-koin.io) is a pragmatic dependency injection framework for Kotlin/Android developers, well known for its ease of use.
 In this session, I propose to see together how we can structure our components, for the following topics:
 Classical Components in MVP, MVVM Dealing with Scopes Jetpack Navigation Jetpack Compose Integrating with Multi-Platform And an overview of incoming new features.</description>
-    </item>
-    
-    <item>
-      <title>Successful Inaugural Brighton Kotlin Meetup</title>
-      <link>/blog/successful-inaugural-brighton-kotlin-meetup/</link>
-      <pubDate>Sun, 29 Sep 2019 22:09:08 +0000</pubDate>
-      
-      <guid>/blog/successful-inaugural-brighton-kotlin-meetup/</guid>
-      <description>It was great to see so many people come along to the first ever Brighton Kotlin meetup. It really showed that there is an active Kotlin community in Brighton with people working on projects using a range of technologies from the Kotlin ecosystem. You can see the photos of the event at our meetup page - https://www.meetup.com/Brighton-Kotlin/photos/30344969/
-At this meetup Lee Turner talked about how Crunch have been introducing Kotlin into their backend microservice architecture over the past year, the results and challenges they have seen during that time and where they plan to take it next.</description>
-    </item>
-    
-    <item>
-      <title>Kotlin/Everywhere - Inaugural Brighton Kotlin Meetup</title>
-      <link>/blog/kotlin-everywhere-inaugural-brighton-kotlin-meetup/</link>
-      <pubDate>Tue, 20 Aug 2019 22:09:08 +0000</pubDate>
-      
-      <guid>/blog/kotlin-everywhere-inaugural-brighton-kotlin-meetup/</guid>
-      <description>This will be the inaugural Brighton Kotlin meetup. The talks on the night are yet to be announced.
-The meetup is hosted and sponsored by Crunch who are providing pizza and a choice of alcoholic and non-alcoholic drinks.
-RSVPs close at 5pm on the day, with Doors at 6:30pm. Talks will begin at 7:15pm.
-Sign up on our meetup page - https://www.meetup.com/Brighton-Kotlin/events/264170536/
-This meetup is also supported by JetBrains who have provided us with a 1-year subscription to any of their IDEs.</description>
     </item>
     
   </channel>

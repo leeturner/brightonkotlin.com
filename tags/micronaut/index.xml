@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micronaut on Brighton Kotlin</title>
+    <link>/tags/micronaut/</link>
+    <description>Recent content in Micronaut on Brighton Kotlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 01 Jan 2023 10:09:08 +0000</lastBuildDate><atom:link href="/tags/micronaut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with the Micronaut Framework</title>
+      <link>/blog/getting-started-with-micronaut/</link>
+      <pubDate>Sun, 01 Jan 2023 10:09:08 +0000</pubDate>
+      
+      <guid>/blog/getting-started-with-micronaut/</guid>
+      <description>We are very excited to welcome Sergio del Amo Caballero. He will be giving a talk on Getting Started with the Micronaut Framework
+In this session, Sergio del Amo introduces the Micronaut® framework and demonstrates how the Framework&amp;rsquo;s unique compile-time approach enables the development of ultra-lightweight Java applications.
+Compelling aspects of the Micronaut framework include:
+Develop applications with Java, Kotlin, or Apache Groovy Sub-second startup time Small processes that can run in as little as 10 MB of JVM heap No runtime reflection Dependency injection and AOP Reflection-free serialization A database access toolkit that uses ahead-of-time (AoT) compilation to pre-compute queries for repository interfaces.</description>
+    </item>
+    
+  </channel>
+</rss>
