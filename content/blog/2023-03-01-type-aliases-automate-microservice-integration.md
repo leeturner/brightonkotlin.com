@@ -4,7 +4,7 @@ description: Using Kotlin Type Aliases To Automate Microservice Integration with
 date: 2023-03-01T10:09:08Z
 author: Lee Turner
 type: post
-featured: getting-started-micronaut.png
+featured: marty-pitt.png
 featuredalt: Using Kotlin Type Aliases To Automate Microservice Integration with Marty Pitt
 featuredpath: /images/blog/2023/03/
 slug: type-aliases-automate-microservice-integration
