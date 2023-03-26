@@ -40,3 +40,7 @@ Connect with Arnaud:
 
 * Twitter: https://twitter.com/arnogiu
 * LinkedIn: https://fr.linkedin.com/in/arnaud-giuliani-0b2b73b
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-WnvSUft9DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
