@@ -3,13 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/blog/</loc>
-    <lastmod>2023-01-01T10:09:08+00:00</lastmod>
+    <lastmod>2023-03-01T10:09:08+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-01-01T10:09:08+00:00</lastmod>
+    <lastmod>2023-03-01T10:09:08+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2023-01-01T10:09:08+00:00</lastmod>
+    <lastmod>2023-03-01T10:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/integration/</loc>
+    <lastmod>2023-03-01T10:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kotlin/</loc>
+    <lastmod>2023-03-01T10:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/categories/meetups/</loc>
+    <lastmod>2023-03-01T10:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/microservice/</loc>
+    <lastmod>2023-03-01T10:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-03-01T10:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/type-aliases/</loc>
+    <lastmod>2023-03-01T10:09:08+00:00</lastmod>
+  </url><url>
+    <loc>/blog/type-aliases-automate-microservice-integration/</loc>
+    <lastmod>2023-03-01T10:09:08+00:00</lastmod>
   </url><url>
     <loc>/tags/framework/</loc>
     <lastmod>2023-01-01T10:09:08+00:00</lastmod>
@@ -17,16 +38,7 @@
     <loc>/blog/getting-started-with-micronaut/</loc>
     <lastmod>2023-01-01T10:09:08+00:00</lastmod>
   </url><url>
-    <loc>/tags/kotlin/</loc>
-    <lastmod>2023-01-01T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/categories/meetups/</loc>
-    <lastmod>2023-01-01T10:09:08+00:00</lastmod>
-  </url><url>
     <loc>/tags/micronaut/</loc>
-    <lastmod>2023-01-01T10:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-01-01T10:09:08+00:00</lastmod>
   </url><url>
     <loc>/blog/android-architecture-design-with-koin/</loc>

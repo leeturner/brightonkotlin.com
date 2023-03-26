@@ -7,22 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 01 Jan 2023 10:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 10:09:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Framework</title>
-      <link>/tags/framework/</link>
-      <pubDate>Sun, 01 Jan 2023 10:09:08 +0000</pubDate>
+      <title>Integration</title>
+      <link>/tags/integration/</link>
+      <pubDate>Wed, 01 Mar 2023 10:09:08 +0000</pubDate>
       
-      <guid>/tags/framework/</guid>
+      <guid>/tags/integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kotlin</title>
       <link>/tags/kotlin/</link>
-      <pubDate>Sun, 01 Jan 2023 10:09:08 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2023 10:09:08 +0000</pubDate>
       
       <guid>/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservice</title>
+      <link>/tags/microservice/</link>
+      <pubDate>Wed, 01 Mar 2023 10:09:08 +0000</pubDate>
+      
+      <guid>/tags/microservice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type-Aliases</title>
+      <link>/tags/type-aliases/</link>
+      <pubDate>Wed, 01 Mar 2023 10:09:08 +0000</pubDate>
+      
+      <guid>/tags/type-aliases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework</title>
+      <link>/tags/framework/</link>
+      <pubDate>Sun, 01 Jan 2023 10:09:08 +0000</pubDate>
+      
+      <guid>/tags/framework/</guid>
       <description></description>
     </item>
     
