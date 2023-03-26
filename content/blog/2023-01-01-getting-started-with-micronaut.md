@@ -40,3 +40,7 @@ Connect with Sergio:
 * Twitter: https://twitter.com/sdelamo
 * Twitter: https://twitter.com/micronautfw
 * LinkedIn: https://www.linkedin.com/in/sergiodelamo/
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TN7igS300QM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
