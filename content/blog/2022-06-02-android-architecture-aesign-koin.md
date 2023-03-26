@@ -32,7 +32,7 @@ In this session, I propose to see together how we can structure our components, 
 * Integrating with Multi-Platform
 * And an overview of incoming new features.
 
---- Bio ---
+## Bio
 
 Arnaud is the Lead Project Developer
 

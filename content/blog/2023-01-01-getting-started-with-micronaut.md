@@ -32,7 +32,7 @@ Compelling aspects of the Micronaut framework include:
 * A database access toolkit that uses ahead-of-time (AoT) compilation to pre-compute queries for repository interfaces.
 * Cloud-native features Sergio also demonstrates how you can generate GraalVM native images of your Micronaut applications to achieve instant startup and ultra-low memory footprint.
 
--- Bio --
+## Bio
 
 Sergio is a Micronaut core committer, member of the Micronaut Foundation Board Of Directors / Technology Advisory Board / Developer Advocate, and host of the Micronaut podcast.
 
