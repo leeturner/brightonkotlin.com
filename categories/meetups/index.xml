@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 17 Jun 2023 11:15:02 +0000</lastBuildDate><atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2023 14:23:23 +0000</lastBuildDate><atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Pulsar with Kotlin couroutines and flows with Michele Sollecito</title>
+      <link>/blog/apache-pulsar-with-kotlin-couroutines-and-flows/</link>
+      <pubDate>Sat, 17 Jun 2023 14:23:23 +0000</pubDate>
+      
+      <guid>/blog/apache-pulsar-with-kotlin-couroutines-and-flows/</guid>
+      <description>Come and join us by signing up on our meetup page: https://www.meetup.com/brighton-kotlin/events/294227622/
+We are very excited to welcome Michele Sollecito to our July meetup. He will be giving a talk on Apache Pulsar with Kotlin couroutines and flows
+Event Format: Hybrid
+Join us in-person: 6:00pm @ Pizza Pilgrims, Brighton Join us online: 6:30pm on YouTube - TBD We&amp;rsquo;ll explore how Kotlin makes consuming and producing messages from/to Apache Pulsar easy. We&amp;rsquo;ll look at some tests, and discuss how coroutines and flows work great with this kind of reactive and event-driven use cases.</description>
+    </item>
+    
     <item>
       <title>June 2023 Brighton Kotlin Meetup - Summer Social</title>
       <link>/blog/june-2023-brighton-kotlin-meetup---summer-social/</link>
