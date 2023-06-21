@@ -13,7 +13,7 @@ categories:
 tags:
 - Apache
 - Pulsar
-- Corutines
+- Coroutines
 - Flows
 ---
 Come and join us by signing up on our meetup page: [https://www.meetup.com/brighton-kotlin/events/294227622/](https://www.meetup.com/brighton-kotlin/events/294227622/)
