@@ -18,11 +18,11 @@
     </item>
     
     <item>
-      <title>Corutines</title>
-      <link>/tags/corutines/</link>
+      <title>coroutines</title>
+      <link>/tags/coroutines/</link>
       <pubDate>Sat, 17 Jun 2023 14:23:23 +0000</pubDate>
       
-      <guid>/tags/corutines/</guid>
+      <guid>/tags/coroutines/</guid>
       <description></description>
     </item>
     
@@ -257,15 +257,6 @@
       <pubDate>Sat, 10 Jul 2021 18:09:08 +0000</pubDate>
       
       <guid>/tags/server-as-a-function/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coroutines</title>
-      <link>/tags/coroutines/</link>
-      <pubDate>Wed, 02 Jun 2021 18:09:08 +0000</pubDate>
-      
-      <guid>/tags/coroutines/</guid>
       <description></description>
     </item>
     
