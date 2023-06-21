@@ -23,7 +23,7 @@ We are very excited to welcome **Michele Sollecito** to our July meetup. He will
 **Event Format: Hybrid**
 
 *   Join us in-person: 6:00pm @ [Pizza Pilgrims, Brighton](https://goo.gl/maps/ZPuDh6w8vz3H7KbQ9)
-*   Join us online: 6:30pm on YouTube - TBD
+*   Join us online: 6:30pm on YouTube - [https://www.youtube.com/watch?v=JbeK486FTyU](https://www.youtube.com/watch?v=JbeK486FTyU)
 
 We'll explore how Kotlin makes consuming and producing messages from/to Apache Pulsar easy. We'll look at some tests, and discuss how coroutines and flows work great with this kind of reactive and event-driven use cases.
 
