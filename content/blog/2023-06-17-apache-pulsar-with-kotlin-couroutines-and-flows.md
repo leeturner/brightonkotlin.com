@@ -18,7 +18,7 @@ tags:
 ---
 Come and join us by signing up on our meetup page: [https://www.meetup.com/brighton-kotlin/events/294227622/](https://www.meetup.com/brighton-kotlin/events/294227622/)
 
-We are very excited to welcome **Michele Sollecito** to our July meetup. He will be giving a talk on **Apache Pulsar with Kotlin couroutines and flows**
+We are very excited to welcome **Michele Sollecito** to our July meetup. He will be giving a talk on **Apache Pulsar with Kotlin coroutines and flows**
 
 **Event Format: Hybrid**
 
