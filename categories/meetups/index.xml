@@ -15,7 +15,7 @@
       
       <guid>/blog/apache-pulsar-with-kotlin-couroutines-and-flows/</guid>
       <description>Come and join us by signing up on our meetup page: https://www.meetup.com/brighton-kotlin/events/294227622/
-We are very excited to welcome Michele Sollecito to our July meetup. He will be giving a talk on Apache Pulsar with Kotlin couroutines and flows
+We are very excited to welcome Michele Sollecito to our July meetup. He will be giving a talk on Apache Pulsar with Kotlin coroutines and flows
 Event Format: Hybrid
 Join us in-person: 6:00pm @ Pizza Pilgrims, Brighton Join us online: 6:30pm on YouTube - https://www.youtube.com/watch?v=JbeK486FTyU We&amp;rsquo;ll explore how Kotlin makes consuming and producing messages from/to Apache Pulsar easy. We&amp;rsquo;ll look at some tests, and discuss how coroutines and flows work great with this kind of reactive and event-driven use cases.</description>
     </item>
