@@ -1,11 +1,11 @@
 ---
-title: Apache Pulsar with Kotlin couroutines and flows with Michele Sollecito
-description: Apache Pulsar with Kotlin couroutines and flows with Michele Sollecito
+title: Apache Pulsar with Kotlin coroutines and flows with Michele Sollecito
+description: Apache Pulsar with Kotlin coroutines and flows with Michele Sollecito
 date: 2023-06-17T14:23:23.550313
 author: Lee Turner
 type: post
 featured: michele-sollecito.png
-featuredalt: Apache Pulsar with Kotlin couroutines and flows with Michele Sollecito
+featuredalt: Apache Pulsar with Kotlin coroutines and flows with Michele Sollecito
 featuredpath: /images/blog/2023/06/
 slug: apache-pulsar-with-kotlin-couroutines-and-flows
 categories:
