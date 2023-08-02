@@ -34,3 +34,8 @@ Apache Pulsar is an open-source, distributed messaging and streaming platform bu
 Connect with Michele:  
 Twitter: [https://twitter.com/sollecitom](https://twitter.com/sollecitom)  
 LinkedIn: [https://www.linkedin.com/in/michelesollecito/](https://www.linkedin.com/in/michelesollecito/)
+
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eR8kyaIzn_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

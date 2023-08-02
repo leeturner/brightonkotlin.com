@@ -33,3 +33,7 @@ Marty is the founder of Orbital - https://orbitalhq.com
 Connect with Marty:
 * Twitter: https://twitter.com/marty_pitt
 * LinkedIn: https://www.linkedin.com/in/martypitt/
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ni7uQyLrnlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
