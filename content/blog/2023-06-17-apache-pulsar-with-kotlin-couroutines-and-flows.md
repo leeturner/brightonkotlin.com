@@ -29,7 +29,7 @@ We'll explore how Kotlin makes consuming and producing messages from/to Apache P
 
 Apache Pulsar is an open-source, distributed messaging and streaming platform built for the cloud. Its features include multi-tenancy with resource separation and access control, geo-replication across regions, and tiered storage.
 
-**Bio**
+## Bio
 
 Connect with Michele:  
 Twitter: [https://twitter.com/sollecitom](https://twitter.com/sollecitom)  
