@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2023-08-02T10:01:40+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-08-02T10:01:40+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2023-08-02T10:01:40+00:00</lastmod>
+  </url><url>
+    <loc>/tags/http4k/</loc>
+    <lastmod>2023-08-02T10:01:40+00:00</lastmod>
+  </url><url>
+    <loc>/categories/meetups/</loc>
+    <lastmod>2023-08-02T10:01:40+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-08-02T10:01:40+00:00</lastmod>
+  </url><url>
+    <loc>/tags/testing/</loc>
+    <lastmod>2023-08-02T10:01:40+00:00</lastmod>
+  </url><url>
+    <loc>/blog/transparent-http-client-testing-with-http4k-and-wiremock/</loc>
+    <lastmod>2023-08-02T10:01:40+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wiremock/</loc>
+    <lastmod>2023-08-02T10:01:40+00:00</lastmod>
+  </url><url>
     <loc>/tags/apache/</loc>
     <lastmod>2023-06-17T14:23:23+00:00</lastmod>
   </url><url>
     <loc>/blog/apache-pulsar-with-kotlin-couroutines-and-flows/</loc>
-    <lastmod>2023-06-17T14:23:23+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2023-06-17T14:23:23+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-06-17T14:23:23+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <lastmod>2023-06-17T14:23:23+00:00</lastmod>
   </url><url>
     <loc>/tags/coroutines/</loc>
@@ -23,13 +41,7 @@
     <loc>/tags/flows/</loc>
     <lastmod>2023-06-17T14:23:23+00:00</lastmod>
   </url><url>
-    <loc>/categories/meetups/</loc>
-    <lastmod>2023-06-17T14:23:23+00:00</lastmod>
-  </url><url>
     <loc>/tags/pulsar/</loc>
-    <lastmod>2023-06-17T14:23:23+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-06-17T14:23:23+00:00</lastmod>
   </url><url>
     <loc>/blog/june-2023-brighton-kotlin-meetup---summer-social/</loc>
@@ -127,9 +139,6 @@
   </url><url>
     <loc>/blog/taking-a-break-through-august-2021/</loc>
     <lastmod>2021-08-04T08:09:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/http4k/</loc>
-    <lastmod>2021-07-10T18:09:08+00:00</lastmod>
   </url><url>
     <loc>/tags/live-coding/</loc>
     <lastmod>2021-07-10T18:09:08+00:00</lastmod>
