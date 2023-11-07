@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 02 Jun 2022 10:09:08 +0000</lastBuildDate><atom:link href="/tags/dependency-injection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jun 2022 10:09:08 +0000</lastBuildDate>
+    <atom:link href="/tags/dependency-injection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android Architecture Design with Koin with Arnaud Giuliani</title>
       <link>/blog/android-architecture-design-with-koin/</link>
       <pubDate>Thu, 02 Jun 2022 10:09:08 +0000</pubDate>
-      
       <guid>/blog/android-architecture-design-with-koin/</guid>
       <description>We&amp;rsquo;ll be welcoming Arnaud Giuliani so sign up, spread the word, BYOB and pizza, and join the conversation!
 &amp;mdash;&amp;mdash;&amp;ndash; Arnaud Giuliani &amp;mdash;&amp;mdash; Android Architecture Design with Koin
@@ -20,6 +20,5 @@ Koin (https://insert-koin.io) is a pragmatic dependency injection framework for 
 In this session, I propose to see together how we can structure our components, for the following topics:
 Classical Components in MVP, MVVM Dealing with Scopes Jetpack Navigation Jetpack Compose Integrating with Multi-Platform And an overview of incoming new features.</description>
     </item>
-    
   </channel>
 </rss>
