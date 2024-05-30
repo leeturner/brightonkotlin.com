@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ui on Brighton Kotlin</title>
+    <title>Ui on Brighton Kotlin</title>
     <link>/tags/ui/</link>
-    <description>Recent content in ui on Brighton Kotlin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Ui on Brighton Kotlin</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 02 Jun 2021 18:09:08 +0000</lastBuildDate>
@@ -14,8 +14,7 @@
       <link>/blog/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines-raul-hernandez-lopez/</link>
       <pubDate>Wed, 02 Jun 2021 18:09:08 +0000</pubDate>
       <guid>/blog/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines-raul-hernandez-lopez/</guid>
-      <description>The June Brighton Kotlin meetup takes place on Thursday 27th June at 6 pm GMT. We will be opening zoom just before 6pm for people to gather and chat. The link will be sent out on the day of the talk. The event will begin around 6pm.
-We&amp;rsquo;ll be welcoming our third speaker - Raul Hernandez Lopez who will give a talk called Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines</description>
+      <description>The June Brighton Kotlin meetup takes place on Thursday 27th June at 6 pm GMT. We will be opening zoom just before 6pm for people to gather and chat. The link will be sent out on the day of the talk. The event will begin around 6pm.&#xA;We&amp;rsquo;ll be welcoming our third speaker - Raul Hernandez Lopez who will give a talk called Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines</description>
     </item>
     <item>
       <title>Scaling UI across platforms with Server Driven UI by Joe Birch</title>

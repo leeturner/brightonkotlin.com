@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>server as a function on Brighton Kotlin</title>
+    <title>Server as a Function on Brighton Kotlin</title>
     <link>/tags/server-as-a-function/</link>
-    <description>Recent content in server as a function on Brighton Kotlin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Server as a Function on Brighton Kotlin</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 10 Jul 2021 18:09:08 +0000</lastBuildDate>

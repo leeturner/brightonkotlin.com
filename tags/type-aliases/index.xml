@@ -4,7 +4,7 @@
     <title>Type-Aliases on Brighton Kotlin</title>
     <link>/tags/type-aliases/</link>
     <description>Recent content in Type-Aliases on Brighton Kotlin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 01 Mar 2023 10:09:08 +0000</lastBuildDate>
@@ -14,9 +14,7 @@
       <link>/blog/type-aliases-automate-microservice-integration/</link>
       <pubDate>Wed, 01 Mar 2023 10:09:08 +0000</pubDate>
       <guid>/blog/type-aliases-automate-microservice-integration/</guid>
-      <description>We are very excited to welcome Marty Pitt from Orbital. He will be giving a talk on Using Kotlin Type Aliases To Automate Microservice Integration
-As teams embrace microservices, and the number of APIs, Topics and DBs explode, integration can become time-consuming to build, and a maintenance nightmare.
-This talk explores using semantic metadata (powered by Kotlin type aliases) to automate integration between all your APIs, Message queues, serverless functions and more.</description>
+      <description>We are very excited to welcome Marty Pitt from Orbital. He will be giving a talk on Using Kotlin Type Aliases To Automate Microservice Integration&#xA;As teams embrace microservices, and the number of APIs, Topics and DBs explode, integration can become time-consuming to build, and a maintenance nightmare.&#xA;This talk explores using semantic metadata (powered by Kotlin type aliases) to automate integration between all your APIs, Message queues, serverless functions and more.</description>
     </item>
   </channel>
 </rss>

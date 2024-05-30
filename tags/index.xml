@@ -4,295 +4,309 @@
     <title>Tags on Brighton Kotlin</title>
     <link>/tags/</link>
     <description>Recent content in Tags on Brighton Kotlin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 07 Nov 2023 21:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 18:07:58 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>history</title>
-      <link>/tags/history/</link>
-      <pubDate>Tue, 07 Nov 2023 21:40:10 +0000</pubDate>
-      <guid>/tags/history/</guid>
+      <title>Global</title>
+      <link>/tags/global/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/global/</guid>
       <description></description>
     </item>
     <item>
       <title>Kotlin</title>
       <link>/tags/kotlin/</link>
-      <pubDate>Tue, 07 Nov 2023 21:40:10 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/kotlin/</guid>
       <description></description>
     </item>
     <item>
-      <title>http4k</title>
+      <title>Dsl</title>
+      <link>/tags/dsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/dsl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>/tags/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Http4k</title>
       <link>/tags/http4k/</link>
-      <pubDate>Wed, 02 Aug 2023 10:01:40 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/http4k/</guid>
       <description></description>
     </item>
     <item>
       <title>Testing</title>
       <link>/tags/testing/</link>
-      <pubDate>Wed, 02 Aug 2023 10:01:40 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Wiremock</title>
       <link>/tags/wiremock/</link>
-      <pubDate>Wed, 02 Aug 2023 10:01:40 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/wiremock/</guid>
       <description></description>
     </item>
     <item>
       <title>Apache</title>
       <link>/tags/apache/</link>
-      <pubDate>Sat, 17 Jun 2023 14:23:23 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/apache/</guid>
       <description></description>
     </item>
     <item>
-      <title>coroutines</title>
+      <title>Coroutines</title>
       <link>/tags/coroutines/</link>
-      <pubDate>Sat, 17 Jun 2023 14:23:23 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/coroutines/</guid>
       <description></description>
     </item>
     <item>
       <title>Flows</title>
       <link>/tags/flows/</link>
-      <pubDate>Sat, 17 Jun 2023 14:23:23 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/flows/</guid>
       <description></description>
     </item>
     <item>
       <title>Pulsar</title>
       <link>/tags/pulsar/</link>
-      <pubDate>Sat, 17 Jun 2023 14:23:23 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/pulsar/</guid>
       <description></description>
     </item>
     <item>
       <title>Social</title>
       <link>/tags/social/</link>
-      <pubDate>Sat, 17 Jun 2023 11:15:02 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/social/</guid>
       <description></description>
     </item>
     <item>
       <title>Integration</title>
       <link>/tags/integration/</link>
-      <pubDate>Wed, 01 Mar 2023 10:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/integration/</guid>
       <description></description>
     </item>
     <item>
       <title>Microservice</title>
       <link>/tags/microservice/</link>
-      <pubDate>Wed, 01 Mar 2023 10:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/microservice/</guid>
       <description></description>
     </item>
     <item>
       <title>Type-Aliases</title>
       <link>/tags/type-aliases/</link>
-      <pubDate>Wed, 01 Mar 2023 10:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/type-aliases/</guid>
       <description></description>
     </item>
     <item>
       <title>Framework</title>
       <link>/tags/framework/</link>
-      <pubDate>Sun, 01 Jan 2023 10:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/framework/</guid>
       <description></description>
     </item>
     <item>
       <title>Micronaut</title>
       <link>/tags/micronaut/</link>
-      <pubDate>Sun, 01 Jan 2023 10:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/micronaut/</guid>
       <description></description>
     </item>
     <item>
       <title>Dependency Injection</title>
       <link>/tags/dependency-injection/</link>
-      <pubDate>Thu, 02 Jun 2022 10:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/dependency-injection/</guid>
       <description></description>
     </item>
     <item>
       <title>Koin</title>
       <link>/tags/koin/</link>
-      <pubDate>Thu, 02 Jun 2022 10:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/koin/</guid>
       <description></description>
     </item>
     <item>
       <title>Konform</title>
       <link>/tags/konform/</link>
-      <pubDate>Sat, 12 Feb 2022 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/konform/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring</title>
       <link>/tags/spring/</link>
-      <pubDate>Sat, 12 Feb 2022 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/spring/</guid>
       <description></description>
     </item>
     <item>
       <title>SpringBoot</title>
       <link>/tags/springboot/</link>
-      <pubDate>Sat, 12 Feb 2022 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/springboot/</guid>
       <description></description>
     </item>
     <item>
       <title>SpringFramework</title>
       <link>/tags/springframework/</link>
-      <pubDate>Sat, 12 Feb 2022 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/springframework/</guid>
       <description></description>
     </item>
     <item>
-      <title>ktor</title>
+      <title>Ktor</title>
       <link>/tags/ktor/</link>
-      <pubDate>Sun, 10 Oct 2021 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/ktor/</guid>
       <description></description>
     </item>
     <item>
-      <title>arrow</title>
+      <title>Arrow</title>
       <link>/tags/arrow/</link>
-      <pubDate>Fri, 10 Sep 2021 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/arrow/</guid>
       <description></description>
     </item>
     <item>
-      <title>functional</title>
+      <title>Functional</title>
       <link>/tags/functional/</link>
-      <pubDate>Fri, 10 Sep 2021 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/functional/</guid>
       <description></description>
     </item>
     <item>
       <title>Apollo</title>
       <link>/tags/apollo/</link>
-      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/apollo/</guid>
       <description></description>
     </item>
     <item>
-      <title>compose</title>
+      <title>Compose</title>
       <link>/tags/compose/</link>
-      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/compose/</guid>
       <description></description>
     </item>
     <item>
-      <title>graphql</title>
+      <title>GraphQL</title>
       <link>/tags/graphql/</link>
-      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/graphql/</guid>
       <description></description>
     </item>
     <item>
       <title>KMM</title>
       <link>/tags/kmm/</link>
-      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/kmm/</guid>
       <description></description>
     </item>
     <item>
       <title>SwiftUI</title>
       <link>/tags/swiftui/</link>
-      <pubDate>Sun, 05 Sep 2021 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/swiftui/</guid>
       <description></description>
     </item>
     <item>
-      <title>live coding</title>
+      <title>Live Coding</title>
       <link>/tags/live-coding/</link>
-      <pubDate>Sat, 10 Jul 2021 18:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/live-coding/</guid>
       <description></description>
     </item>
     <item>
-      <title>server as a function</title>
+      <title>Server as a Function</title>
       <link>/tags/server-as-a-function/</link>
-      <pubDate>Sat, 10 Jul 2021 18:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/server-as-a-function/</guid>
       <description></description>
     </item>
     <item>
-      <title>ui</title>
+      <title>Ui</title>
       <link>/tags/ui/</link>
-      <pubDate>Wed, 02 Jun 2021 18:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/ui/</guid>
       <description></description>
     </item>
     <item>
-      <title>unidirectional data flow</title>
+      <title>Unidirectional Data Flow</title>
       <link>/tags/unidirectional-data-flow/</link>
-      <pubDate>Wed, 02 Jun 2021 18:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/unidirectional-data-flow/</guid>
       <description></description>
     </item>
     <item>
-      <title>jetpack</title>
+      <title>Jetpack</title>
       <link>/tags/jetpack/</link>
-      <pubDate>Tue, 01 Jun 2021 18:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/jetpack/</guid>
       <description></description>
     </item>
     <item>
-      <title>desktop</title>
+      <title>Desktop</title>
       <link>/tags/desktop/</link>
-      <pubDate>Thu, 25 Mar 2021 19:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/desktop/</guid>
       <description></description>
     </item>
     <item>
-      <title>server</title>
+      <title>Server</title>
       <link>/tags/server/</link>
-      <pubDate>Thu, 25 Mar 2021 18:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/server/</guid>
       <description></description>
     </item>
     <item>
-      <title>flow</title>
+      <title>Flow</title>
       <link>/tags/flow/</link>
-      <pubDate>Thu, 27 Feb 2020 22:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/flow/</guid>
       <description></description>
     </item>
     <item>
-      <title>xmas</title>
+      <title>Xmas</title>
       <link>/tags/xmas/</link>
-      <pubDate>Mon, 16 Dec 2019 22:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/xmas/</guid>
       <description></description>
     </item>
     <item>
-      <title>app</title>
+      <title>App</title>
       <link>/tags/app/</link>
-      <pubDate>Thu, 21 Nov 2019 22:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/app/</guid>
       <description></description>
     </item>
     <item>
-      <title>sports</title>
+      <title>Sports</title>
       <link>/tags/sports/</link>
-      <pubDate>Thu, 21 Nov 2019 22:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/sports/</guid>
       <description></description>
     </item>
     <item>
       <title>Multiplatform</title>
       <link>/tags/multiplatform/</link>
-      <pubDate>Sat, 12 Oct 2019 22:09:08 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/multiplatform/</guid>
       <description></description>
     </item>

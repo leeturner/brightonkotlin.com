@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>flow on Brighton Kotlin</title>
+    <title>Flow on Brighton Kotlin</title>
     <link>/tags/flow/</link>
-    <description>Recent content in flow on Brighton Kotlin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Flow on Brighton Kotlin</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 27 Feb 2020 22:09:08 +0000</lastBuildDate>
@@ -14,8 +14,7 @@
       <link>/blog/getting-into-the-flow-with-coroutines-joseph-van-de-wee/</link>
       <pubDate>Thu, 27 Feb 2020 22:09:08 +0000</pubDate>
       <guid>/blog/getting-into-the-flow-with-coroutines-joseph-van-de-wee/</guid>
-      <description>Hot topics at KotlinConf, Coroutines and Flow provide an efficient way to handle asynchronous data streams.
-In this talk Joe will explore how we can use some of the basics from these APIs to provide fluid experiences for our users and avoid callback hell in our code. He’ll point out some of the common pitfalls along and way and look at how we can migrate from RxJava to Flow for reactive programming in Kotlin.</description>
+      <description>Hot topics at KotlinConf, Coroutines and Flow provide an efficient way to handle asynchronous data streams.&#xA;In this talk Joe will explore how we can use some of the basics from these APIs to provide fluid experiences for our users and avoid callback hell in our code. He’ll point out some of the common pitfalls along and way and look at how we can migrate from RxJava to Flow for reactive programming in Kotlin.</description>
     </item>
   </channel>
 </rss>

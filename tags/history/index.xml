@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>history on Brighton Kotlin</title>
+    <title>History on Brighton Kotlin</title>
     <link>/tags/history/</link>
-    <description>Recent content in history on Brighton Kotlin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in History on Brighton Kotlin</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 07 Nov 2023 21:40:10 +0000</lastBuildDate>
@@ -14,9 +14,7 @@
       <link>/blog/kotlin-a-bit-of-history/</link>
       <pubDate>Tue, 07 Nov 2023 21:40:10 +0000</pubDate>
       <guid>/blog/kotlin-a-bit-of-history/</guid>
-      <description>Come and join us by signing up on our meetup page: https://www.meetup.com/brighton-kotlin/events/296107142/
-We are very excited to welcome Andrey Breslav to our November meetup. Andrey is the Co-founder of Alter and was the Lead Language Designer for Kotlin at JetBrains. He will be giving a talk on Kotlin: a bit of history
-This talk will give an overview of how Kotlin was developed and how it progressed looking from the inside.</description>
+      <description>Come and join us by signing up on our meetup page: https://www.meetup.com/brighton-kotlin/events/296107142/&#xA;We are very excited to welcome Andrey Breslav to our November meetup. Andrey is the Co-founder of Alter and was the Lead Language Designer for Kotlin at JetBrains. He will be giving a talk on Kotlin: a bit of history&#xA;This talk will give an overview of how Kotlin was developed and how it progressed looking from the inside.</description>
     </item>
   </channel>
 </rss>

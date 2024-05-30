@@ -3,27 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/blog/</loc>
-    <lastmod>2023-11-07T21:40:10+00:00</lastmod>
+    <lastmod>2024-05-28T18:07:58+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-11-07T21:40:10+00:00</lastmod>
+    <lastmod>2024-05-28T18:07:58+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2023-11-07T21:40:10+00:00</lastmod>
+    <lastmod>2024-05-28T18:07:58+00:00</lastmod>
+  </url><url>
+    <loc>/tags/global/</loc>
+    <lastmod>2024-05-28T18:07:58+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kotlin/</loc>
+    <lastmod>2024-05-28T18:07:58+00:00</lastmod>
+  </url><url>
+    <loc>/blog/kotlin-global-2024/</loc>
+    <lastmod>2024-05-28T18:07:58+00:00</lastmod>
+  </url><url>
+    <loc>/categories/meetups/</loc>
+    <lastmod>2024-05-28T18:07:58+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-05-28T18:07:58+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dsl/</loc>
+    <lastmod>2024-01-30T17:55:16+00:00</lastmod>
+  </url><url>
+    <loc>/blog/dsls-as-a-single-source-truth-ivan-ponomarev/</loc>
+    <lastmod>2024-01-30T17:55:16+00:00</lastmod>
   </url><url>
     <loc>/tags/history/</loc>
     <lastmod>2023-11-07T21:40:10+00:00</lastmod>
   </url><url>
-    <loc>/tags/kotlin/</loc>
-    <lastmod>2023-11-07T21:40:10+00:00</lastmod>
-  </url><url>
     <loc>/blog/kotlin-a-bit-of-history/</loc>
-    <lastmod>2023-11-07T21:40:10+00:00</lastmod>
-  </url><url>
-    <loc>/categories/meetups/</loc>
-    <lastmod>2023-11-07T21:40:10+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-11-07T21:40:10+00:00</lastmod>
   </url><url>
     <loc>/tags/http4k/</loc>
@@ -215,6 +227,9 @@
     <loc>/tags/multiplatform/</loc>
     <lastmod>2019-10-12T22:09:08+00:00</lastmod>
   </url><url>
+    <loc>/tags/kotlin/everywhere/</loc>
+    <lastmod>2019-09-29T22:09:08+00:00</lastmod>
+  </url><url>
     <loc>/blog/successful-inaugural-brighton-kotlin-meetup/</loc>
     <lastmod>2019-09-29T22:09:08+00:00</lastmod>
   </url><url>
@@ -224,8 +239,6 @@
     <loc>/about/</loc>
   </url><url>
     <loc>/code-of-conduct/</loc>
-  </url><url>
-    <loc>/tags/kotlin/everywhere/</loc>
   </url><url>
     <loc>/silicon-brighton/</loc>
   </url>

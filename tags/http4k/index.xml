@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>http4k on Brighton Kotlin</title>
+    <title>Http4k on Brighton Kotlin</title>
     <link>/tags/http4k/</link>
-    <description>Recent content in http4k on Brighton Kotlin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Http4k on Brighton Kotlin</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 02 Aug 2023 10:01:40 +0000</lastBuildDate>
@@ -14,10 +14,7 @@
       <link>/blog/transparent-http-client-testing-with-http4k-and-wiremock/</link>
       <pubDate>Wed, 02 Aug 2023 10:01:40 +0000</pubDate>
       <guid>/blog/transparent-http-client-testing-with-http4k-and-wiremock/</guid>
-      <description>Come and join us by signing up on our meetup page: https://www.meetup.com/brighton-kotlin/events/294858828/
-We are very excited to welcome Robert Elliot to our September meetup. He will be giving a talk on Transparent http client testing with http4K and WireMock
-Event Format: Hybrid
-Join us in-person: 6:00pm @ Pizza Pilgrims, Brighton Join us online: 6:30pm on YouTube - TBD One of http4k&amp;rsquo;s great selling points is that it has a uniform client and server interface.</description>
+      <description>Come and join us by signing up on our meetup page: https://www.meetup.com/brighton-kotlin/events/294858828/&#xA;We are very excited to welcome Robert Elliot to our September meetup. He will be giving a talk on Transparent http client testing with http4K and WireMock&#xA;Event Format: Hybrid&#xA;Join us in-person: 6:00pm @ Pizza Pilgrims, Brighton Join us online: 6:30pm on YouTube - TBD One of http4k&amp;rsquo;s great selling points is that it has a uniform client and server interface.</description>
     </item>
     <item>
       <title>Live coding server as a function with http4k with Dmitry Kandalov</title>

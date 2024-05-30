@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>arrow on Brighton Kotlin</title>
+    <title>Arrow on Brighton Kotlin</title>
     <link>/tags/arrow/</link>
-    <description>Recent content in arrow on Brighton Kotlin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Arrow on Brighton Kotlin</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 10 Sep 2021 17:09:08 +0000</lastBuildDate>
@@ -21,9 +21,7 @@
       <link>/blog/functional-kotlin-with-arrow-karin-aleksandra-monoid/</link>
       <pubDate>Mon, 05 Jul 2021 18:09:08 +0000</pubDate>
       <guid>/blog/functional-kotlin-with-arrow-karin-aleksandra-monoid/</guid>
-      <description>The July Brighton Kotlin meetup takes place on Thursday 22nd July at 6 pm GMT. We will be opening the zoom just before 6pm for people to gather and chat.
-We&amp;rsquo;ll be welcoming Karin-Aleksandra Monoid who will be talking about Functional Kotlin with Arrow:
-What is a monad? Do I need a PhD to write in functional style? How do I do that in Kotlin? And other questions that you were afraid to ask.</description>
+      <description>The July Brighton Kotlin meetup takes place on Thursday 22nd July at 6 pm GMT. We will be opening the zoom just before 6pm for people to gather and chat.&#xA;We&amp;rsquo;ll be welcoming Karin-Aleksandra Monoid who will be talking about Functional Kotlin with Arrow:&#xA;What is a monad? Do I need a PhD to write in functional style? How do I do that in Kotlin? And other questions that you were afraid to ask.</description>
     </item>
   </channel>
 </rss>

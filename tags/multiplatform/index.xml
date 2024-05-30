@@ -4,7 +4,7 @@
     <title>Multiplatform on Brighton Kotlin</title>
     <link>/tags/multiplatform/</link>
     <description>Recent content in Multiplatform on Brighton Kotlin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 12 Oct 2019 22:09:08 +0000</lastBuildDate>
@@ -14,8 +14,7 @@
       <link>/blog/kolin-multiplatform-hmrc-george-herbert/</link>
       <pubDate>Sat, 12 Oct 2019 22:09:08 +0000</pubDate>
       <guid>/blog/kolin-multiplatform-hmrc-george-herbert/</guid>
-      <description>We are extremely lucky to have a talk this month by George Herbert from Capgemini where he will discuss how Kotlin Multiplatform (KMP) was implemented at HMRC.
-During this talk, he will talk about the reasons behind the use of KMP and how he made it work with iOS, Android and Web. Come along to find out whether KMP could be used in your projects or maybe just to pique your interest into the world of KMP!</description>
+      <description>We are extremely lucky to have a talk this month by George Herbert from Capgemini where he will discuss how Kotlin Multiplatform (KMP) was implemented at HMRC.&#xA;During this talk, he will talk about the reasons behind the use of KMP and how he made it work with iOS, Android and Web. Come along to find out whether KMP could be used in your projects or maybe just to pique your interest into the world of KMP!</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xmas on Brighton Kotlin</title>
+    <title>Xmas on Brighton Kotlin</title>
     <link>/tags/xmas/</link>
-    <description>Recent content in xmas on Brighton Kotlin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Xmas on Brighton Kotlin</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 22:09:08 +0000</lastBuildDate>
@@ -14,9 +14,7 @@
       <link>/blog/2019-xmas-drinks/</link>
       <pubDate>Mon, 16 Dec 2019 22:09:08 +0000</pubDate>
       <guid>/blog/2019-xmas-drinks/</guid>
-      <description>Even though it is short notice, we thought what better way to finish the year than gathering in a pub and having a few drinks to celebrate a great end to the year.
-It would be great to see at the Hope and Ruin on the 16th December from 6:30pm on-wards
-We already have some great speakers lined up for the beginning of 2020 and we will be publishing those events very soon but for now, join us to toast the end of the year in Brighton Kotlin style.</description>
+      <description>Even though it is short notice, we thought what better way to finish the year than gathering in a pub and having a few drinks to celebrate a great end to the year.&#xA;It would be great to see at the Hope and Ruin on the 16th December from 6:30pm on-wards&#xA;We already have some great speakers lined up for the beginning of 2020 and we will be publishing those events very soon but for now, join us to toast the end of the year in Brighton Kotlin style.</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Global on Brighton Kotlin</title>
+    <link>/tags/global/</link>
+    <description>Recent content in Global on Brighton Kotlin</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2021 Brighton Kotlin | &lt;a href=&#34;/code-of-conduct/&#34;&gt;Code of Conduct&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 28 May 2024 18:07:58 +0000</lastBuildDate>
+    <atom:link href="/tags/global/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KotlinConf Global 2024 - Brighton Kotlin</title>
+      <link>/blog/kotlin-global-2024/</link>
+      <pubDate>Tue, 28 May 2024 18:07:58 +0000</pubDate>
+      <guid>/blog/kotlin-global-2024/</guid>
+      <description>Details&#xA;This year Brighton Kotlin is taking part in KotlinConf Global 2024, where communities around the world are encouraged to become part of KotlinConf 2024 by hosting their own events. Join us on the 28th May for an engaging and informative KotlinConf Global at Runway East, Brighton.&#xA;This is a unique opportunity for Kotlin enthusiasts and professionals to come together, watch keynote talks from KotlinConf &amp;lsquo;24 in Copenhagen, and chat about the latest news from the Kotlin ecosystem, all over a few drinks and some pizza</description>
+    </item>
+  </channel>
+</rss>
